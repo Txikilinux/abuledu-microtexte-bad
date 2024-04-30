@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE NOMENCLATURE SYSTEM "Dtd-Nomenclature.dtd">
+<NOMENCLATURE>
+    <TERME>
+        <INTITULE>champ disciplinaire</INTITULE>
+        <ID>scolomfr-voc-028-num-001</ID>
+        <DF>Objectif</DF>
+        <NA>Vocabulaire ScoLOMFR-voc-014, pour les référentiels définissant des branches des savoirs, savoir-faire, savoir-être pouvant faire l'objet d'un apprentissage.</NA>
+        <ORIGINE>scolomfr-voc-028</ORIGINE>
+        <TERME_TE>
+            <INTITULE>discipline</INTITULE>
+            <ID>LOM-discipline</ID>
+        </TERME_TE>
+    </TERME>
+    <TERME>
+        <INTITULE>compétence</INTITULE>
+        <ID>scolomfr-voc-028-num-002</ID>
+        <DF>Objectif</DF>
+        <NA>Vocabulaire ScoLOMFR-voc-016, pour les référentiels utilisés aussi bien dans le système éducatif qu'en formation professionnelle servant à définir les compétences pouvant être acquises au moyen de la ressource.</NA>
+        <ORIGINE>scolomfr-voc-028</ORIGINE>
+        <TERME_TE>
+            <INTITULE>competency</INTITULE>
+            <ID>lom-competency</ID>
+        </TERME_TE>
+    </TERME>
+    <TERME>
+        <INTITULE>domaine d'enseignement</INTITULE>
+        <ID>scolomfr-voc-028-num-003</ID>
+        <DF>Objectif</DF>
+        <NA>Vocabulaire ScoLOMFR-voc-015, pour le référentiel définissant le domaine d'enseignement précis dans lequel la ressource peut être utilisée. Les domaines d'enseignement sont rattachés aux champs disciplinaires.</NA>
+        <ORIGINE>scolomfr-voc-028</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>enseignement</INTITULE>
+        <ID>scolomfr-voc-028-num-004</ID>
+        <DF>Objectif</DF>
+        <NA>Vocabulaire ScoLOMFR-voc-030, pour les référentiels définissant les programmes et thèmes des enseignements officiels. Il y a un vocabulaire par domaine d'enseignement (construit sur la base 030, 031, 032, etc.).</NA>
+        <ORIGINE>scolomfr-voc-028</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>label</INTITULE>
+        <ID>scolomfr-voc-028-num-013</ID>
+        <DF>Objectif</DF>
+        <ORIGINE>scolomfr-voc-028</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>niveau de compétence</INTITULE>
+        <ID>scolomfr-voc-028-num-005</ID>
+        <DF>Objectif</DF>
+        <NA>Pour les référentiels typiquement utilisés en formation professionnelle ou formation continue pour définir le niveau des apprenants visés par la ressource.</NA>
+        <ORIGINE>scolomfr-voc-028</ORIGINE>
+        <TERME_TE>
+            <INTITULE>skill level</INTITULE>
+            <ID>lom-skilllevel</ID>
+        </TERME_TE>
+    </TERME>
+    <TERME>
+        <INTITULE>niveau de sécurité</INTITULE>
+        <ID>scolomfr-voc-028-num-006</ID>
+        <DF>Objectif</DF>
+        <NA>Pour les référentiels permettant de définir des permissions et/ou des autorisations d'accès à la ressource.</NA>
+        <ORIGINE>scolomfr-voc-028</ORIGINE>
+        <TERME_TE>
+            <INTITULE>security level</INTITULE>
+            <ID>lom-securitylevel</ID>
+        </TERME_TE>
+    </TERME>
+    <TERME>
+        <INTITULE>niveau éducatif détaillé</INTITULE>
+        <ID>scolomfr-voc-028-num-007</ID>
+        <DF>Objectif</DF>
+        <NA>Vocabulaire ScoLOMFR-voc-022, pour les référentiels typiquement utilisés pour définir le niveau des élèves/étudiants visés par une ressource.</NA>
+        <ORIGINE>scolomfr-voc-028</ORIGINE>
+        <TERME_TE>
+            <INTITULE>niveau éducatif</INTITULE>
+            <ID>lomfr-niveaueduc</ID>
+        </TERME_TE>
+        <TERME_TE>
+            <INTITULE>educational level</INTITULE>
+            <ID>lom-educlevel</ID>
+        </TERME_TE>
+    </TERME>
+    <TERME>
+        <INTITULE>notion</INTITULE>
+        <ID>scolomfr-voc-028-num-008</ID>
+        <DF>Objectif</DF>
+        <NA>Pour les référentiels sur des connaissances élémentaires.</NA>
+        <ORIGINE>scolomfr-voc-028</ORIGINE>
+        <TERME_TE>
+            <INTITULE>idea</INTITULE>
+            <ID>lom-idea</ID>
+        </TERME_TE>
+    </TERME>
+    <TERME>
+        <INTITULE>objectif pédagogique</INTITULE>
+        <ID>scolomfr-voc-028-num-009</ID>
+        <DF>Objectif</DF>
+        <NA>Pour les référentiels définissant ce qu'on cherche à atteindre par l'action de formation.</NA>
+        <ORIGINE>scolomfr-voc-028</ORIGINE>
+        <TERME_TE>
+            <INTITULE>educational objective</INTITULE>
+            <ID>lom-educobjective</ID>
+        </TERME_TE>
+    </TERME>
+    <TERME>
+        <INTITULE>pré-requis</INTITULE>
+        <ID>scolomfr-voc-028-num-010</ID>
+        <DF>Objectif</DF>
+        <NA>Pour les référentiels définissant des savoirs et savoir-faire nécessaires à la bonne compréhension de la ressource.</NA>
+        <ORIGINE>scolomfr-voc-028</ORIGINE>
+        <TERME_TE>
+            <INTITULE>prerequisite</INTITULE>
+            <ID>lom-prerequisite</ID>
+        </TERME_TE>
+    </TERME>
+    <TERME>
+        <INTITULE>public cible détaillé</INTITULE>
+        <ID>scolomfr-voc-028-num-011</ID>
+        <DF>Objectif</DF>
+        <NA>Vocabulaire ScoLOMFR-voc-021, pour les référentiels définissant les publics cibles visés par la ressource.</NA>
+        <ORIGINE>scolomfr-voc-028</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>restriction d'accessibilité</INTITULE>
+        <ID>scolomfr-voc-028-num-012</ID>
+        <DF>Objectif</DF>
+        <NA>Pour les référentiels définissant les conditions d'accès pour des publics particuliers utilisateurs (handicapés, public averti...).</NA>
+        <ORIGINE>scolomfr-voc-028</ORIGINE>
+        <TERME_TE>
+            <INTITULE>accessibility restrictions</INTITULE>
+            <ID>lom-accessrestrictions</ID>
+        </TERME_TE>
+    </TERME>
+    <TERME>
+        <INTITULE>type de diffusion</INTITULE>
+        <ID>scolomfr-voc-028-num-014</ID>
+        <DF>Objectif</DF>
+        <ORIGINE>scolomfr-voc-028</ORIGINE>
+    </TERME>
+</NOMENCLATURE>

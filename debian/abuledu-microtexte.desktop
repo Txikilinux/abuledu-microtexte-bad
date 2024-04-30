@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=abuledu-microtexte
+Comment[fr]=Un traitement de texte pour les tout-petits par AbulEdu
+Name=Abuledu Microtexte
+Comment=A text writer since really small by AbulEdu
+Icon=/usr/share/abuledu-microtexte/abuledu-microtexte-256.png
+Categories=Education;
+Name[fr_FR]=abuledu-microtexte.desktop
+
+X-Horizon-WindowsExecPath=C:\Program Files\AbulEdu\abuledu-microtexte
+
+X-Horizon-Version=1.0.4~ryxeo42~revno264

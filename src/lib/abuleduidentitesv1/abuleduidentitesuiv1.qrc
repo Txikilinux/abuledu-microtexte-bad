@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/abuleduidentitesv1/avatars">
+        <file alias="anonyme">avatars/anonyme.png</file>
+        <file alias="asma">avatars/asma.png</file>
+        <file alias="ballon">avatars/ballon.png</file>
+        <file alias="basket">avatars/basket.png</file>
+        <file alias="chenille">avatars/chenille.png</file>
+        <file alias="coeur">avatars/coeur.png</file>
+        <file alias="defaut">avatars/defaut.png</file>
+        <file alias="ecran">avatars/ecran.png</file>
+        <file alias="egypt">avatars/egypt.png</file>
+        <file alias="espace">avatars/espace.png</file>
+        <file alias="etoile">avatars/etoile.png</file>
+        <file alias="fee">avatars/fee.png</file>
+        <file alias="fleurs">avatars/fleurs.png</file>
+        <file alias="grenouille">avatars/grenouille.png</file>
+        <file alias="hibou">avatars/hibou.png</file>
+        <file alias="hibou2">avatars/hibou2.png</file>
+        <file alias="hippo">avatars/hippo.png</file>
+        <file alias="lapin01">avatars/lapin01.png</file>
+        <file alias="lapin02">avatars/lapin02.png</file>
+        <file alias="luna">avatars/luna.png</file>
+        <file alias="manege">avatars/manege.png</file>
+        <file alias="nounours">avatars/nounours.png</file>
+        <file alias="soleil">avatars/soleil.png</file>
+        <file alias="ryxeo">avatars/ryxeo.png</file>
+        <file alias="rigolo04">avatars/rigolo04.png</file>
+        <file alias="rigolo05">avatars/rigolo05.png</file>
+        <file alias="rigolo06">avatars/rigolo06.png</file>
+        <file alias="rigolo03">avatars/rigolo03.png</file>
+        <file alias="rigolo02">avatars/rigolo02.png</file>
+        <file alias="rigolo01">avatars/rigolo01.png</file>
+        <file alias="ours">avatars/ours.png</file>
+        <file alias="orage">avatars/orage.png</file>
+        <file alias="nuages">avatars/nuages.png</file>
+        <file alias="souris">avatars/souris.png</file>
+        <file alias="suzumi">avatars/suzumi.png</file>
+        <file alias="leterrier">avatars/terrier.png</file>
+        <file alias="william">avatars/william.png</file>
+    </qresource>
+</RCC>

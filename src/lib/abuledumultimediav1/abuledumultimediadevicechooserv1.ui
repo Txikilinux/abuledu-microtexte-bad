@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>AbulEduMultiMediaDeviceChooserV1</class>
+ <widget class="QGroupBox" name="AbulEduMultiMediaDeviceChooserV1">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>609</width>
+    <height>285</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>GroupBox</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">QGroupBox {
+border: 2px solid red;
+font-weight:bold;
+color:red;
+border-radius: 5px;
+margin-top: 2ex;
+}
+
+QGroupBox::title {
+subcontrol-origin: margin;
+padding: 0 5px;
+}</string>
+  </property>
+  <property name="title">
+   <string>GroupBox</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <widget class="QLabel" name="abeDeviceChooserLblWarning">
+     <property name="text">
+      <string/>
+     </property>
+     <property name="wordWrap">
+      <bool>true</bool>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="abeDeviceChooserLblChoose">
+     <property name="text">
+      <string>Vous pouvez choisir en cochant :</string>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

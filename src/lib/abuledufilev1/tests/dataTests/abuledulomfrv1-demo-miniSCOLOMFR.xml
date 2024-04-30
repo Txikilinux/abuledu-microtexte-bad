@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lomfr:lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:lom="http://ltsc.ieee.org/xsd/LOM" xmlns:scolomfr="http://www.lom-fr.fr/xsd/SCOLOMFR" xmlns:lomfr="http://www.lom-fr.fr/xsd/LOMFR" xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lom.xsd">
+ <lom:general>
+  <lom:identifier>
+   <lom:catalog>URI</lom:catalog>
+   <lom:entry>http://mediatheque.abuledu.org/URI/CODETEST</lom:entry>
+  </lom:identifier>
+  <lom:title>
+   <lom:string language="eng">the same in english</lom:string>
+   <lom:string language="fre">Le titre de cette ressource avec des accents</lom:string>
+  </lom:title>
+  <lom:language>fre</lom:language>
+  <lom:language>eng</lom:language>
+  <lom:description>
+   <lom:string language="fre">Ceci est la description de la ressource ...</lom:string>
+  </lom:description>
+ </lom:general>
+ <lom:lifeCycle>
+  <lom:contribute>
+   <lom:role>
+    <lom:source>LOMv1.0</lom:source>
+    <lom:value>author</lom:value>
+   </lom:role>
+   <lom:entity>BEGIN:VCARD
+VERSION:2.1
+N:Seigne;Eric;;;
+FN:Eric Seigne
+TEL:05 35 54 01 18
+EMAIL:eric.seigne@ryxeo.com
+END:VCARD</lom:entity>
+   <lom:entity>BEGIN:VCARD
+VERSION:2.1
+N:Hays;Stephane;;;
+FN:Stephane Hays
+TEL:05 35 54 01 18
+EMAIL:stephane.hays@ryxeo.com
+END:VCARD</lom:entity>
+   <lom:date>
+    <lom:dateTime>2011-05-26</lom:dateTime>
+   </lom:date>
+  </lom:contribute>
+  <lom:contribute>
+   <lom:role>
+    <lom:source>LOMv1.0</lom:source>
+    <lom:value>validator</lom:value>
+   </lom:role>
+   <lom:entity>BEGIN:VCARD
+VERSION:2.1
+N:Cadaugade;Philippe;;;
+FN:Philippe Cadaugade
+TEL:05 35 54 01 18
+EMAIL:philippe.cadaugade@ryxeo.com
+END:VCARD</lom:entity>
+   <lom:date>
+    <lom:dateTime>2007-03-13</lom:dateTime>
+   </lom:date>
+  </lom:contribute>
+ </lom:lifeCycle>
+ <lom:technical>
+  <lom:format>iso</lom:format>
+  <lom:format>jpg</lom:format>
+  <lom:size>500000</lom:size>
+  <lom:location>http://mediatheque.abuledu.org/URI/CODETEST</lom:location>
+  <lom:location>/home/fichier.iso</lom:location>
+ </lom:technical>
+</lomfr:lom>

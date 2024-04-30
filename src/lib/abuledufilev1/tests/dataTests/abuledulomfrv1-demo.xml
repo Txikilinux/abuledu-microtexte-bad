@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lomfr:lom xmlns:lomfr="http://www.lom-fr.fr/xsd/LOMFR"
+           xmlns:lom="http://ltsc.ieee.org/xsd/LOM"
+           xmlns:scolomfr="http://www.lom-fr.fr/xsd/SCOLOMFR">
+   <lom:general>
+      <lom:identifier>
+         <lom:catalog>URI</lom:catalog>
+         <lom:entry>http://mediatheque.abuledu.org/URI/CODETEST</lom:entry>
+      </lom:identifier>
+      <lom:title>
+         <lom:string language="fre">Le titre de cette ressource avec des accents: ééé</lom:string>
+         <lom:string language="eng">Same title in english</lom:string>
+      </lom:title>
+      <lom:language>fre</lom:language>
+      <lom:language>spa</lom:language>
+      <lom:description>
+         <lom:string language="fre">Ceci est la description de la ressource ...</lom:string>
+      </lom:description>
+      <lom:keyword>
+         <lom:string language="fre">sciences de la vie</lom:string>
+      </lom:keyword>
+      <lom:keyword>
+         <lom:string language="fre">svt</lom:string>
+      </lom:keyword>
+      <lom:keyword>
+         <lom:string language="fre">biologie humaine</lom:string>
+      </lom:keyword>
+      <lom:keyword>
+         <lom:string language="fre">caractère sexuel</lom:string>
+      </lom:keyword>
+      <lom:coverage>
+         <lom:string language="fre">lieu, région, époque</lom:string>
+      </lom:coverage>
+      <lom:structure>
+         <lom:source>LOMv1.0</lom:source>
+         <lom:value>hierarchical</lom:value>
+      </lom:structure>
+      <lom:aggregationLevel>
+         <lom:source>LOMv1.0</lom:source>
+         <lom:value>2</lom:value>
+      </lom:aggregationLevel>
+      <lomfr:documentType>
+         <lomfr:source>LOMFRv1.0</lomfr:source>
+         <lomfr:value>ensemble de données</lomfr:value>
+      </lomfr:documentType>
+      <lomfr:genTypologie>
+         <lomfr:source>LOMFRv1.0</lomfr:source>
+         <lomfr:value/>
+      </lomfr:genTypologie>
+      <lomfr:documentType>
+         <lomfr:source>LOMFRv1.0</lomfr:source>
+         <lomfr:value>ressource interactive</lomfr:value>
+      </lomfr:documentType>
+      <scolomfr:generalResourceType>
+         <scolomfr:source>ScoLOMFRv1.0</scolomfr:source>
+         <scolomfr:value>banque d'images</scolomfr:value>
+      </scolomfr:generalResourceType>
+      <scolomfr:generalResourceType>
+         <scolomfr:source>ScoLOMFRv1.0</scolomfr:source>
+         <scolomfr:value>image numérique</scolomfr:value>
+      </scolomfr:generalResourceType>
+      <scolomfr:generalResourceType>
+         <scolomfr:source>ScoLOMFRv1.0</scolomfr:source>
+         <scolomfr:value>collection de documents</scolomfr:value>
+      </scolomfr:generalResourceType>
+      <lomfr:genTypologie>
+         <lomfr:source>LOMFRv1.0</lomfr:source>
+         <lomfr:value/>
+      </lomfr:genTypologie>
+   </lom:general>
+   <lom:lifeCycle>
+      <lom:version>
+         <lom:string language="fre">Un nom de version ...</lom:string>
+      </lom:version>
+      <lom:status>
+         <lom:source>LOMv1.0</lom:source>
+         <lom:value>final</lom:value>
+      </lom:status>
+      <lom:contribute>
+         <lom:role>
+            <lom:source>LOMv1.0</lom:source>
+            <lom:value>author</lom:value>
+         </lom:role>
+         <lom:entity>BEGIN:VCARD
+VERSION:2.1
+N:Seigne;Eric;;;
+FN:Eric Seigne
+TEL:05 35 54 01 18
+EMAIL:eric.seigne@ryxeo.com
+END:VCARD</lom:entity>
+         <lom:entity>BEGIN:VCARD
+VERSION:2.1
+N:Hays;Stephane;;;
+FN:Stephane Hays
+TEL:05 35 54 01 18
+EMAIL:stephane.hays@ryxeo.com
+END:VCARD</lom:entity>
+         <lom:date>
+            <lom:dateTime>2011-05-26</lom:dateTime>
+         </lom:date>
+      </lom:contribute>
+      <lom:contribute>
+         <lom:role>
+            <lom:source>LOMv1.0</lom:source>
+            <lom:value>validator</lom:value>
+         </lom:role>
+         <lom:entity>BEGIN:VCARD
+VERSION:2.1
+N:Cadaugade;Philippe;;;
+FN:Philippe Cadaugade
+TEL:05 35 54 01 18
+EMAIL:philippe.cadaugade@ryxeo.com
+END:VCARD</lom:entity>
+         <lom:date>
+            <lom:dateTime>2007-03-13</lom:dateTime>
+         </lom:date>
+      </lom:contribute>
+   </lom:lifeCycle>
+   <lom:metaMetadata>
+      <lom:identifier>
+         <lom:catalog>URI</lom:catalog>
+         <lom:entry>http:/www.coredu.fr/repository/OAIHandler?verb=GetRecord&amp;metadataPrefix=lom&amp;identifier=oai:editors.coredu.fr:1004</lom:entry>
+      </lom:identifier>
+      <lom:contribute>
+         <lom:role>
+            <lom:source>LOMv1.0</lom:source>
+            <lom:value>creator</lom:value>
+         </lom:role>
+         <lom:entity>BEGIN:VCARD
+VERSION:2.1
+N:Cadaugade;Philippe;;;
+FN:Philippe Cadaugade
+TEL:05 35 54 01 18
+EMAIL:philippe.cadaugade@ryxeo.com
+END:VCARD</lom:entity>
+         <lom:date>
+            <lom:dateTime>2007-03-13</lom:dateTime>
+         </lom:date>
+      </lom:contribute>
+      <lom:metadataSchema>ScoLOMFRv1.0</lom:metadataSchema>
+      <lom:language>fre</lom:language>
+   </lom:metaMetadata>
+   <lom:technical>
+      <lom:format>text/html</lom:format>
+      <lom:size>125</lom:size>
+      <lom:location>http://www.ryxeo.com/</lom:location>
+      <lom:format>image/jpeg</lom:format>
+      <lom:format>video/msvideo</lom:format>
+   </lom:technical>
+   <lom:educational>
+      <lom:learningResourceType>
+         <lom:source>LOMv1.0</lom:source>
+         <lom:value>simulation</lom:value>
+      </lom:learningResourceType>
+      <lom:learningResourceType>
+         <lom:source>LOMFRv1.0</lom:source>
+         <lom:value>animation</lom:value>
+      </lom:learningResourceType>
+      <lom:learningResourceType>
+         <lom:source>LOMv1.0</lom:source>
+         <lom:value>lecture</lom:value>
+      </lom:learningResourceType>
+      <lom:intendedEndUserRole>
+         <lom:source>LOMv1.0</lom:source>
+         <lom:value>learner</lom:value>
+      </lom:intendedEndUserRole>
+      <lom:intendedEndUserRole>
+         <lom:source>CORRELYCE</lom:source>
+         <lom:value>teacher</lom:value>
+      </lom:intendedEndUserRole>
+      <lom:context>
+         <lom:source>LOMFRv1.0</lom:source>
+         <lom:value>enseignement secondaire</lom:value>
+      </lom:context>
+      <lom:context>
+         <lom:source>LOMv1.0</lom:source>
+         <lom:value>other</lom:value>
+      </lom:context>
+      <lom:typicalAgeRange>
+         <lom:string language="fre">13-18 ans</lom:string>
+      </lom:typicalAgeRange>
+      <lom:typicalAgeRange>
+         <lom:string language="fre">ado</lom:string>
+      </lom:typicalAgeRange>
+      <lom:typicalAgeRange>
+         <lom:string language="fre">jeunes adultes</lom:string>
+      </lom:typicalAgeRange>
+      <lom:typicalAgeRange>
+         <lom:string language="eng">kids</lom:string>
+      </lom:typicalAgeRange>
+      <lom:difficulty>
+          <lom:source>LOMv1.0</lom:source>
+          <lom:value>easy</lom:value>
+      </lom:difficulty>
+      <lom:language>fre</lom:language>
+      <lom:description>
+         <lom:string language="fre">Description de l'utilisation de cette ressource ...</lom:string>
+      </lom:description>
+      <lomfr:activity>
+         <lomfr:source>LOMFRv1.0</lomfr:source>
+         <lomfr:value>apprendre</lomfr:value>
+      </lomfr:activity>
+      <lomfr:activity>
+         <lomfr:source>LOMFRv1.0</lomfr:source>
+         <lomfr:value>observer</lomfr:value>
+      </lomfr:activity>
+      <lomfr:activity>
+         <lomfr:source>LOMFRv1.0</lomfr:source>
+         <lomfr:value>s'informer</lomfr:value>
+      </lomfr:activity>
+      <scolomfr:place>
+         <scolomfr:source>ScoLOMFRv1.0</scolomfr:source>
+         <scolomfr:value>en salle de classe</scolomfr:value>
+      </scolomfr:place>
+      <scolomfr:place>
+         <scolomfr:source>ScoLOMFRv1.0</scolomfr:source>
+         <scolomfr:value>en CDI</scolomfr:value>
+      </scolomfr:place>
+      <scolomfr:educationalMethod>
+         <scolomfr:source>ScoLOMFRv1.0</scolomfr:source>
+         <scolomfr:value>aide didactique individualisée</scolomfr:value>
+      </scolomfr:educationalMethod>
+      <scolomfr:educationalMethod>
+         <scolomfr:source>ScoLOMFRv1.0</scolomfr:source>
+         <scolomfr:value>en autonomie</scolomfr:value>
+      </scolomfr:educationalMethod>
+      <scolomfr:educationalMethod>
+         <scolomfr:source>ScoLOMFRv1.0</scolomfr:source>
+         <scolomfr:value>en groupe de compétences</scolomfr:value>
+      </scolomfr:educationalMethod>
+      <scolomfr:educationalMethod>
+         <scolomfr:source>ScoLOMFRv1.0</scolomfr:source>
+         <scolomfr:value>en classe entière</scolomfr:value>
+      </scolomfr:educationalMethod>
+      <scolomfr:tool>
+         <scolomfr:source>ScoLOMFRv1.0</scolomfr:source>
+         <scolomfr:value>vidéoprojecteur</scolomfr:value>
+      </scolomfr:tool>
+      <scolomfr:tool>
+         <scolomfr:source>ScoLOMFRv1.0</scolomfr:source>
+         <scolomfr:value>logiciels RIP</scolomfr:value>
+      </scolomfr:tool>
+   </lom:educational>
+   <lom:rights>
+      <lom:cost>
+         <lom:source>LOMv1.0</lom:source>
+         <lom:value>yes</lom:value>
+      </lom:cost>
+      <lom:copyrightAndOtherRestrictions>
+         <lom:source>LOMv1.0</lom:source>
+         <lom:value>yes</lom:value>
+      </lom:copyrightAndOtherRestrictions>
+      <lom:description>
+         <lom:string language="fre">cc-by-sa</lom:string>
+      </lom:description>
+   </lom:rights>
+   <lom:relation>
+      <lom:kind>
+         <lom:source>LOMv1.0</lom:source>
+         <lom:value>references</lom:value>
+      </lom:kind>
+      <lom:resource>
+         <lom:identifier>
+            <lom:catalog>URI</lom:catalog>
+            <lom:entry>http://www.carre-edu.fr/lycee/</lom:entry>
+         </lom:identifier>
+         <lom:description>
+            <lom:string language="fre">Collection d'animations multimédia reconnues d'intérêt pédagogique par le ministère de l'Education nationale (RIP).
+Carré multimédia édite depuis 1995 des programmes scientifiques, culturels et éducatifs sur CD-Rom et Internet reconnus pour la rigueur de leurs contenus et la créativité de leur interface.
+Ces programmes ont obtenu de nombreux prix français et internationaux.
+Les animations CARRE Education ont été conçues avec la même exigence éditoriale et scientifique pour s'adapter aux différents usages pédagogiques : utilisation en classe (projection), en travaux dirigés ou révision à la maison.
+Le déroulement des animations est entièrement contrôlable par l'utilisateur : lecture automatique ou manuelle, zoom, contrôle de l'affichage des légendes.
+
+Conformes au programme officiel, ces animations portent sur des thèmes pour lesquels l'explication dynamique et interactive est un atout précieux.</lom:string>
+         </lom:description>
+      </lom:resource>
+   </lom:relation>
+   <lom:classification>
+      <lom:purpose>
+         <lom:source>LOMv1.0</lom:source>
+         <lom:value>educational level</lom:value>
+      </lom:purpose>
+      <lom:taxonPath>
+         <lom:source>
+            <lom:string language="fre">nomenclature niveaux Sceren V 2.1</lom:string>
+         </lom:source>
+         <lom:taxon>
+            <lom:id/>
+            <lom:entry>
+               <lom:string language="fre">voies générale et technologique collège cycle d'orientation 3e</lom:string>
+            </lom:entry>
+         </lom:taxon>
+         <lom:taxon>
+            <lom:id/>
+            <lom:entry>
+               <lom:string language="fre">voies générale et technologique lycée</lom:string>
+            </lom:entry>
+         </lom:taxon>
+         <lom:taxon>
+            <lom:id/>
+            <lom:entry>
+               <lom:string language="fre">voie professionnelle lycée CAP CAP Santé-Social</lom:string>
+            </lom:entry>
+         </lom:taxon>
+         <lom:taxon>
+            <lom:id/>
+            <lom:entry>
+               <lom:string language="fre">voie professionnelle lycée BAC PRO BAC Pro Santé-Social</lom:string>
+            </lom:entry>
+         </lom:taxon>
+         <lom:taxon>
+            <lom:id/>
+            <lom:entry>
+               <lom:string language="fre">-----adaptation scolaire et scolarisation des
+                                                                                                        élèves handicapés</lom:string>
+            </lom:entry>
+         </lom:taxon>
+         <lom:taxon>
+            <lom:id/>
+            <lom:entry>
+               <lom:string language="fre">2d degré 3e insertion</lom:string>
+            </lom:entry>
+         </lom:taxon>
+         <lom:taxon>
+            <lom:id/>
+            <lom:entry>
+               <lom:string language="fre">2d degré SEGPA 3ème Segpa</lom:string>
+            </lom:entry>
+         </lom:taxon>
+      </lom:taxonPath>
+   </lom:classification>
+   <lom:classification>
+      <lom:purpose>
+         <lom:source>LOMv1.0</lom:source>
+         <lom:value>discipline</lom:value>
+      </lom:purpose>
+      <lom:taxonPath>
+         <lom:source>
+            <lom:string language="fre">nomenclature disciplines Sceren V 2.1</lom:string>
+         </lom:source>
+         <lom:taxon>
+            <lom:id/>
+            <lom:entry>
+               <lom:string language="fre">-----Enseignements généraux</lom:string>
+            </lom:entry>
+         </lom:taxon>
+         <lom:taxon>
+            <lom:id/>
+            <lom:entry>
+               <lom:string language="fre">sciences de la vie et de la Terre SVT</lom:string>
+            </lom:entry>
+         </lom:taxon>
+         <lom:taxon>
+            <lom:id/>
+            <lom:entry>
+               <lom:string language="fre">-----Enseignements transverses aux disciplines
+                                                                                                        et aux différents niveaux</lom:string>
+            </lom:entry>
+         </lom:taxon>
+         <lom:taxon>
+            <lom:id/>
+            <lom:entry>
+               <lom:string language="fre">éducation à la santé</lom:string>
+            </lom:entry>
+         </lom:taxon>
+         <lom:taxon>
+            <lom:id/>
+            <lom:entry>
+               <lom:string language="fre">-----domaines spécifiques aux enseignements
+                                                                                                        professionnels ou technologiques</lom:string>
+            </lom:entry>
+         </lom:taxon>
+         <lom:taxon>
+            <lom:id/>
+            <lom:entry>
+               <lom:string language="fre">santé – paramédical et social</lom:string>
+            </lom:entry>
+         </lom:taxon>
+         <lom:taxon>
+            <lom:id/>
+            <lom:entry>
+               <lom:string language="fre">-----domaines spécifiques à l’enseignement
+                                                                                                        agricole</lom:string>
+            </lom:entry>
+         </lom:taxon>
+         <lom:taxon>
+            <lom:id/>
+            <lom:entry>
+               <lom:string language="fre">production animale</lom:string>
+            </lom:entry>
+         </lom:taxon>
+      </lom:taxonPath>
+   </lom:classification>
+   <lom:classification>
+      <lom:purpose>
+         <lom:source>LOMv1.0</lom:source>
+         <lom:value>competency</lom:value>
+      </lom:purpose>
+      <lom:taxonPath>
+         <lom:source>
+            <lom:string language="fre">ScoLomFr-voc016
+                                                        </lom:string>
+         </lom:source>
+         <lom:taxon>
+            <lom:id/>
+            <lom:entry>
+               <lom:string language="fre">-----compétence 3 - les principaux éléments de
+                                                                                                        mathématiques et la culture scientifique et technologique
+                                                                                                </lom:string>
+            </lom:entry>
+         </lom:taxon>
+         <lom:taxon>
+            <lom:id/>
+            <lom:entry>
+               <lom:string language="fre">savoir utiliser des connaissances dans divers domaines scientifiques</lom:string>
+            </lom:entry>
+         </lom:taxon>
+         <lom:taxon>
+            <lom:id/>
+            <lom:entry>
+               <lom:string language="fre">-----compétence 6 - les compétences sociales
+                                                                                                        et civiques</lom:string>
+            </lom:entry>
+         </lom:taxon>
+         <lom:taxon>
+            <lom:id/>
+            <lom:entry>
+               <lom:string language="fre">avoir un comportement responsable</lom:string>
+            </lom:entry>
+         </lom:taxon>
+      </lom:taxonPath>
+   </lom:classification>
+   <lom:classification>
+      <lom:purpose>
+         <lom:source>ScoLOMFRv1.0</lom:source>
+         <lom:value>public cible détaillé</lom:value>
+      </lom:purpose>
+      <lom:taxonPath>
+         <lom:source>
+            <lom:string language="fre">ScoLomFr-voc021
+                                                        </lom:string>
+         </lom:source>
+         <lom:taxon>
+            <lom:id/>
+            <lom:entry>
+               <lom:string language="fre">enseignant des disciplines</lom:string>
+            </lom:entry>
+         </lom:taxon>
+         <lom:taxon>
+            <lom:id/>
+            <lom:entry>
+               <lom:string language="fre">personnel médico-social</lom:string>
+            </lom:entry>
+         </lom:taxon>
+         <lom:taxon>
+            <lom:id/>
+            <lom:entry>
+               <lom:string language="fre">élève</lom:string>
+            </lom:entry>
+         </lom:taxon>
+      </lom:taxonPath>
+   </lom:classification>
+   <lom:classification>
+      <lom:purpose>
+         <lom:source>ScoLOMFRv1.0</lom:source>
+         <lom:value>type de diffusion</lom:value>
+      </lom:purpose>
+      <lom:taxonPath>
+         <lom:source>
+            <lom:string language="fre">ScoLomFr-voc Coredu diffusion
+                                                        </lom:string>
+         </lom:source>
+         <lom:taxon>
+            <lom:id/>
+            <lom:entry>
+               <lom:string language="fre">Ressource interactive en ligne standard</lom:string>
+            </lom:entry>
+         </lom:taxon>
+      </lom:taxonPath>
+   </lom:classification>
+   <lom:classification>
+      <lom:purpose>
+         <lom:source>ScoLOMFRv1.0</lom:source>
+         <lom:value>label</lom:value>
+      </lom:purpose>
+      <lom:taxonPath>
+         <lom:source>
+            <lom:string language="fre">ScoLomFr-voc Coredu Label
+                                                        </lom:string>
+         </lom:source>
+         <lom:taxon>
+            <lom:id/>
+            <lom:entry>
+               <lom:string language="fre">RIP 2007</lom:string>
+            </lom:entry>
+         </lom:taxon>
+         <lom:taxon>
+            <lom:id/>
+            <lom:entry>
+               <lom:string language="fre">soutenu dans le cadre du SHENE</lom:string>
+            </lom:entry>
+         </lom:taxon>
+      </lom:taxonPath>
+   </lom:classification>
+</lomfr:lom>

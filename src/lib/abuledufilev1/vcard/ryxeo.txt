@@ -1,0 +1,3 @@
+source utilisee: http://libvcard.googlecode.com/svn/trunk
+branche faite le 8.04.2012
+

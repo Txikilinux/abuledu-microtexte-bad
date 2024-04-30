@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>AbulEduMessageBoxV1</class>
+ <widget class="QWidget" name="AbulEduMessageBoxV1">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>440</width>
+    <height>247</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>300</width>
+    <height>200</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>AbulEduMessageBoxV1</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true"/>
+  </property>
+  <layout class="QGridLayout" name="gridLayout">
+   <property name="sizeConstraint">
+    <enum>QLayout::SetMinAndMaxSize</enum>
+   </property>
+   <property name="leftMargin">
+    <number>0</number>
+   </property>
+   <property name="topMargin">
+    <number>0</number>
+   </property>
+   <property name="rightMargin">
+    <number>0</number>
+   </property>
+   <property name="bottomMargin">
+    <number>0</number>
+   </property>
+   <property name="spacing">
+    <number>0</number>
+   </property>
+   <item row="0" column="0">
+    <widget class="QFrame" name="mainFrame">
+     <property name="styleSheet">
+      <string notr="true">  background: #E4E3ED;
+  border-color: #000;
+  border-width: 2px;
+  border-radius: 10px;</string>
+     </property>
+     <property name="frameShape">
+      <enum>QFrame::StyledPanel</enum>
+     </property>
+     <property name="frameShadow">
+      <enum>QFrame::Raised</enum>
+     </property>
+     <layout class="QGridLayout" name="gridLayout_2">
+      <item row="0" column="0">
+       <layout class="QGridLayout" name="gridLayout_3">
+        <property name="spacing">
+         <number>0</number>
+        </property>
+        <item row="1" column="1">
+         <widget class="QLabel" name="lblTitre">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">font-weight:bold;
+font-size:16pt;
+color:#aa5500;</string>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+          <property name="textFormat">
+           <enum>Qt::RichText</enum>
+          </property>
+          <property name="scaledContents">
+           <bool>true</bool>
+          </property>
+         </widget>
+        </item>
+        <item row="1" column="0">
+         <widget class="QLabel" name="lblIcone">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="minimumSize">
+           <size>
+            <width>0</width>
+            <height>0</height>
+           </size>
+          </property>
+          <property name="maximumSize">
+           <size>
+            <width>92</width>
+            <height>92</height>
+           </size>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+          <property name="pixmap">
+           <pixmap resource="../../data/abuledumessageboxv1/abuledumessageboxv1.qrc">:/abuledumessageboxv1/icon/oups</pixmap>
+          </property>
+          <property name="scaledContents">
+           <bool>false</bool>
+          </property>
+         </widget>
+        </item>
+        <item row="0" column="1">
+         <widget class="QFrame" name="frm_multimedia">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="frameShape">
+           <enum>QFrame::StyledPanel</enum>
+          </property>
+          <property name="frameShadow">
+           <enum>QFrame::Raised</enum>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item row="2" column="0">
+       <widget class="QLabel" name="lblTexte">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="MinimumExpanding" vsizetype="MinimumExpanding">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>12</pointsize>
+         </font>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+        <property name="textFormat">
+         <enum>Qt::RichText</enum>
+        </property>
+        <property name="wordWrap">
+         <bool>true</bool>
+        </property>
+        <property name="openExternalLinks">
+         <bool>true</bool>
+        </property>
+       </widget>
+      </item>
+      <item row="3" column="0">
+       <layout class="QHBoxLayout" name="horizontalLayout_3">
+        <property name="spacing">
+         <number>0</number>
+        </property>
+        <item>
+         <spacer name="horizontalSpacer">
+          <property name="orientation">
+           <enum>Qt::Horizontal</enum>
+          </property>
+          <property name="sizeHint" stdset="0">
+           <size>
+            <width>40</width>
+            <height>20</height>
+           </size>
+          </property>
+         </spacer>
+        </item>
+        <item>
+         <layout class="QHBoxLayout" name="horizontalLayout_2">
+          <property name="spacing">
+           <number>0</number>
+          </property>
+          <item>
+           <widget class="AbulEduFlatBoutonV1" name="btnAnnuler" native="true">
+            <property name="minimumSize">
+             <size>
+              <width>120</width>
+              <height>50</height>
+             </size>
+            </property>
+            <property name="maximumSize">
+             <size>
+              <width>120</width>
+              <height>50</height>
+             </size>
+            </property>
+            <property name="cursor">
+             <cursorShape>PointingHandCursor</cursorShape>
+            </property>
+            <property name="whatsThis">
+             <string>cancel</string>
+            </property>
+            <property name="text" stdset="0">
+             <string>Annuler</string>
+            </property>
+            <property name="TextePaddingLeft" stdset="0">
+             <double>40.000000000000000</double>
+            </property>
+            <property name="IconeNormale" stdset="0">
+             <string notr="true">:/abuledumessageboxv1/button/cancel</string>
+            </property>
+            <property name="IconeSurvol" stdset="0">
+             <string notr="true">:/abuledumessageboxv1/button/cancelHover</string>
+            </property>
+            <property name="IconePressed" stdset="0">
+             <string notr="true">:/abuledumessageboxv1/button/cancelPressed</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="AbulEduFlatBoutonV1" name="btnFermer" native="true">
+            <property name="minimumSize">
+             <size>
+              <width>120</width>
+              <height>50</height>
+             </size>
+            </property>
+            <property name="maximumSize">
+             <size>
+              <width>120</width>
+              <height>50</height>
+             </size>
+            </property>
+            <property name="cursor">
+             <cursorShape>PointingHandCursor</cursorShape>
+            </property>
+            <property name="whatsThis">
+             <string>close</string>
+            </property>
+            <property name="text" stdset="0">
+             <string>&amp;Fermer</string>
+            </property>
+            <property name="TextePaddingLeft" stdset="0">
+             <double>40.000000000000000</double>
+            </property>
+            <property name="IconeNormale" stdset="0">
+             <string notr="true">:/abuledumessageboxv1/button/close</string>
+            </property>
+            <property name="IconeSurvol" stdset="0">
+             <string notr="true">:/abuledumessageboxv1/button/closeHover</string>
+            </property>
+            <property name="IconePressed" stdset="0">
+             <string notr="true">:/abuledumessageboxv1/button/closePressed</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="AbulEduFlatBoutonV1" name="btnOK" native="true">
+            <property name="minimumSize">
+             <size>
+              <width>120</width>
+              <height>50</height>
+             </size>
+            </property>
+            <property name="maximumSize">
+             <size>
+              <width>120</width>
+              <height>50</height>
+             </size>
+            </property>
+            <property name="cursor">
+             <cursorShape>PointingHandCursor</cursorShape>
+            </property>
+            <property name="whatsThis">
+             <string>ok</string>
+            </property>
+            <property name="text" stdset="0">
+             <string>OK</string>
+            </property>
+            <property name="TextePaddingLeft" stdset="0">
+             <double>40.000000000000000</double>
+            </property>
+            <property name="IconeNormale" stdset="0">
+             <string notr="true">:/abuledumessageboxv1/button/ok</string>
+            </property>
+            <property name="IconeSurvol" stdset="0">
+             <string notr="true">:/abuledumessageboxv1/button/okHover</string>
+            </property>
+            <property name="IconePressed" stdset="0">
+             <string notr="true">:/abuledumessageboxv1/button/okPressed</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="AbulEduFlatBoutonV1" name="btnNon" native="true">
+            <property name="minimumSize">
+             <size>
+              <width>120</width>
+              <height>50</height>
+             </size>
+            </property>
+            <property name="maximumSize">
+             <size>
+              <width>120</width>
+              <height>50</height>
+             </size>
+            </property>
+            <property name="whatsThis">
+             <string>no</string>
+            </property>
+            <property name="text" stdset="0">
+             <string>Non</string>
+            </property>
+            <property name="IconeNormale" stdset="0">
+             <string notr="true">:/abuledumessageboxv1/button/close</string>
+            </property>
+            <property name="IconeSurvol" stdset="0">
+             <string notr="true">:/abuledumessageboxv1/button/closeHover</string>
+            </property>
+            <property name="IconePressed" stdset="0">
+             <string notr="true">:/abuledumessageboxv1/button/closePressed</string>
+            </property>
+            <property name="TextePaddingLeft" stdset="0">
+             <double>40.000000000000000</double>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="AbulEduFlatBoutonV1" name="btnOui" native="true">
+            <property name="minimumSize">
+             <size>
+              <width>120</width>
+              <height>50</height>
+             </size>
+            </property>
+            <property name="maximumSize">
+             <size>
+              <width>120</width>
+              <height>50</height>
+             </size>
+            </property>
+            <property name="whatsThis">
+             <string>yes</string>
+            </property>
+            <property name="text" stdset="0">
+             <string>Oui</string>
+            </property>
+            <property name="IconeNormale" stdset="0">
+             <string notr="true">:/abuledumessageboxv1/button/ok</string>
+            </property>
+            <property name="IconeSurvol" stdset="0">
+             <string notr="true">:/abuledumessageboxv1/button/okHover</string>
+            </property>
+            <property name="IconePressed" stdset="0">
+             <string notr="true">:/abuledumessageboxv1/button/okPressed</string>
+            </property>
+            <property name="TextePaddingLeft" stdset="0">
+             <double>40.000000000000000</double>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </item>
+       </layout>
+      </item>
+      <item row="1" column="0">
+       <widget class="QFrame" name="abeMessageBoxCustomFrame">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="MinimumExpanding" vsizetype="Expanding">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="frameShape">
+         <enum>QFrame::StyledPanel</enum>
+        </property>
+        <property name="frameShadow">
+         <enum>QFrame::Raised</enum>
+        </property>
+        <layout class="QGridLayout" name="gridLayout_4"/>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <customwidgets>
+  <customwidget>
+   <class>AbulEduFlatBoutonV1</class>
+   <extends>QWidget</extends>
+   <header>abuleduflatboutonv1.h</header>
+  </customwidget>
+ </customwidgets>
+ <resources>
+  <include location="../../data/abuledumessageboxv1/abuledumessageboxv1.qrc"/>
+ </resources>
+ <connections/>
+</ui>

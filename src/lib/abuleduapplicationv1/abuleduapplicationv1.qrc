@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/abuleduapplicationv1/fonts">
+        <file alias="andika">font/AndikaR-1.002/Andika-R.ttf</file>
+    </qresource>
+</RCC>

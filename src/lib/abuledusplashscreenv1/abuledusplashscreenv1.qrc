@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/abuledusplashscreenv1">
+        <file alias="splashscreen">images/splashscreen.png</file>
+        <file alias="gray">images/splashscreen-gris.png</file>
+        <file alias="conf">abuledusplashscreenv1.conf</file>
+    </qresource>
+    <qresource prefix="/button">
+        <file alias="change-pressed">images/changer-pressed.png</file>
+        <file alias="change-over">images/changer-over.png</file>
+        <file alias="change">images/changer.png</file>
+        <file alias="id-pressed">images/identifiant-pressed.png</file>
+        <file alias="id-over">images/identifiant-over.png</file>
+        <file alias="id">images/identifiant.png</file>
+        <file alias="anonymous-pressed">images/anonyme-pressed.png</file>
+        <file alias="anonymous-over">images/anonyme-over.png</file>
+        <file alias="anonymous">images/anonyme.png</file>
+        <file alias="authenticate-pressed">images/authentification-pressed.png</file>
+        <file alias="authenticate-over">images/authentification-over.png</file>
+        <file alias="authenticate">images/authentification.png</file>
+        <file alias="buy-pressed">images/acheter-pressed.png</file>
+        <file alias="buy-over">images/acheter-over.png</file>
+        <file alias="buy">images/acheter.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/abuleduwidgetlom">
+        <file>icones/logo_scolomfr.gif</file>
+        <file>icones/lomfr.png</file>
+    </qresource>
+</RCC>

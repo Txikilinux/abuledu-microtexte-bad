@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/abuleduaproposv1">
+        <file>help_fr.html</file>
+        <file>presentation_fr.html</file>
+        <file>about_fr.html</file>
+        <file>abuleduaproposv1.conf</file>
+    </qresource>
+    <qresource prefix="/abuleduaproposv1/buttons">
+        <file alias="close">picto/fermer.png</file>
+        <file alias="closeHover">picto/fermer-hover.png</file>
+        <file alias="closePressed">picto/fermer-pressed.png</file>
+    </qresource>
+</RCC>

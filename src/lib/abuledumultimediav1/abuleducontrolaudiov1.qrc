@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/controlaudio">
+        <file alias="stop">picto/arreter.png</file>
+        <file alias="stop_gris">picto/arreter-gris.png</file>
+        <file alias="stop_hover">picto/arreter-hover.png</file>
+        <file alias="pause">picto/pause.png</file>
+        <file alias="pause_gris">picto/pause-gris.png</file>
+        <file alias="pause_hover">picto/pause-hover.png</file>
+        <file alias="play">picto/play.png</file>
+        <file alias="play_gris">picto/play-gris.png</file>
+        <file alias="play_hover">picto/play-hover.png</file>
+        <file alias="next">picto/next.png</file>
+        <file alias="next_gris">picto/next-gris.png</file>
+        <file alias="next_hover">picto/next-hover.png</file>
+        <file alias="previous">picto/previous.png</file>
+        <file alias="previous_gris">picto/previous-gris.png</file>
+        <file alias="previous_hover">picto/previous-hover.png</file>
+        <file alias="rec">picto/rec.png</file>
+        <file alias="rec_hover">picto/rec-hover.png</file>
+        <file alias="rec_gris">picto/rec-gris.png</file>
+        <file alias="magnif">picto/magnifying.png</file>
+        <file alias="magnif_gris">picto/magnifying-gris.png</file>
+        <file alias="magnif_hover">picto/magnifying-hover.png</file>
+        <file alias="hide_gris">picto/annuler-gris.png</file>
+        <file alias="hide_hover">picto/annuler-hover.png</file>
+        <file alias="hide">picto/annuler.png</file>
+        <file alias="more_hover">picto/more-hover.png</file>
+        <file alias="more">picto/more.png</file>
+        <file alias="hp">picto/hp.png</file>
+        <file alias="hp_gris">picto/hp-gris.png</file>
+        <file alias="hp_hover">picto/hp-hover.png</file>
+        <file alias="casque">picto/casque.png</file>
+        <file alias="casque_gris">picto/casque-gris.png</file>
+        <file alias="casque_hover">picto/casque-hover.png</file>
+        <file alias="plus_hover">picto/plus-hover.png</file>
+        <file alias="minus_hover">picto/moins-hover.png</file>
+        <file alias="plus">picto/plus.png</file>
+        <file alias="minus">picto/moins.png</file>
+    </qresource>
+</RCC>

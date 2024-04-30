@@ -1,0 +1,17 @@
+Source: abuledu-microtexte
+Section: admin
+Priority: extra
+Maintainer: Eric Seigne <eric.seigne@ryxeo.com>
+Build-Depends: cdbs, libqt5webkit5-dev, qt5-qmake, qtbase5-dev, libqt5core5a, zlib1g-dev, libexiv2-dev, libmagic-dev, bzr, libpulse-dev, libvorbis-dev, libttspico-dev, qtscript5-dev, libqt5svg5-dev, qtmultimedia5-dev
+Standards-Version: 3.8.3
+Homepage: http://www.abuledu.org/abuledu-microtexte
+Vcs-Browser: https://redmine.ryxeo.com/projects/abuledu-microtexte/issues
+
+
+
+Package: abuledu-microtexte
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${leterrier:Depends}, exiv2, zlib1g, libttspico0, qtscript5, libqt5svg5, libqt5multimedia5, libqt5multimediawidgets5
+Description: Traitement de texte pour les tout-petits par AbulEdu
+ Ce micro traitement de texte est proposé sur les tablettes en guise de premier bloc notes.
+

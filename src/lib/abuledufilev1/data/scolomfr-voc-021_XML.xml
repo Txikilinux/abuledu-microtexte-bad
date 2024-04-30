@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE NOMENCLATURE SYSTEM "Dtd-Nomenclature.dtd">
+<NOMENCLATURE>
+    <TERME>
+        <INTITULE>animateur socioculturel</INTITULE>
+        <ID>scolomfr-voc-021-num-0001</ID>
+        <DF>Public cible détaillé</DF>
+        <ORIGINE>scolomfr-voc-021</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>assistant</INTITULE>
+        <ID>scolomfr-voc-021-num-0002</ID>
+        <DF>Public cible détaillé</DF>
+        <NA>Personnel qui aide, seconde un enseignant dans son travail avec les élèves.</NA>
+        <ORIGINE>scolomfr-voc-021</ORIGINE>
+        <TERME_TE>
+            <INTITULE>ATSEM (agent territorial spécialisé des écoles maternelles)</INTITULE>
+            <ID>scolomfr-voc-021-num-00021</ID>
+            <ORIGINE>scolomfr-voc-021</ORIGINE>
+        </TERME_TE>
+    </TERME>
+    <TERME>
+        <INTITULE>chef de travaux</INTITULE>
+        <ID>scolomfr-voc-021-num-0004</ID>
+        <DF>Public cible détaillé</DF>
+        <NA>Un chef de travaux est issu du corps enseignant, il peut être déchargé ou chargé de cours (4heures). Certains enseignants peuvent faire fonction de chef de travaux pour quelques heures.</NA>
+        <ORIGINE>scolomfr-voc-021</ORIGINE>
+        <TERME_TE>
+            <INTITULE>chef de travaux (non enseignant)</INTITULE>
+            <ID>scolomfr-voc-021-num-00042</ID>
+            <ORIGINE>scolomfr-voc-021</ORIGINE>
+        </TERME_TE>
+        <TERME_TE>
+            <INTITULE>chef de travaux (enseignant)</INTITULE>
+            <ID>scolomfr-voc-021-num-00041</ID>
+            <ORIGINE>scolomfr-voc-021</ORIGINE>
+        </TERME_TE>
+    </TERME>
+    <TERME>
+        <INTITULE>collectivités territoriales</INTITULE>
+        <ID>scolomfr-voc-021-num-0006</ID>
+        <DF>Public cible détaillé</DF>
+        <ORIGINE>scolomfr-voc-021</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>élève</INTITULE>
+        <ID>scolomfr-voc-021-num-0007</ID>
+        <DF>Public cible détaillé</DF>
+        <NA>Elève scolarisé de la maternelle au lycée.</NA>
+        <ORIGINE>scolomfr-voc-021</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>élève à besoins éducatifs spécifiques</INTITULE>
+        <ID>scolomfr-voc-021-num-0008</ID>
+        <DF>Public cible détaillé</DF>
+        <NA>Elève suivant un enseignement adapté et spécialisé ou élève en difficulté.</NA>
+        <ORIGINE>scolomfr-voc-021</ORIGINE>
+        <TERME_TE>
+            <INTITULE>élève handicapé</INTITULE>
+            <ID>scolomfr-voc-021-num-00084</ID>
+            <ORIGINE>scolomfr-voc-021</ORIGINE>
+        </TERME_TE>
+        <TERME_TE>
+            <INTITULE>élève en difficulté</INTITULE>
+            <ID>scolomfr-voc-021-num-00082</ID>
+            <ORIGINE>scolomfr-voc-021</ORIGINE>
+        </TERME_TE>
+        <TERME_TE>
+            <INTITULE>élève à besoins spécifiques</INTITULE>
+            <ID>scolomfr-voc-021-num-00081</ID>
+            <ORIGINE>scolomfr-voc-021</ORIGINE>
+        </TERME_TE>
+        <TERME_TE>
+            <INTITULE>élève surdoué</INTITULE>
+            <ID>scolomfr-voc-021-num-00083</ID>
+            <ORIGINE>scolomfr-voc-021</ORIGINE>
+        </TERME_TE>
+    </TERME>
+    <TERME>
+        <INTITULE>enseignant des disciplines</INTITULE>
+        <ID>scolomfr-voc-021-num-0009</ID>
+        <DF>Public cible détaillé</DF>
+        <NA>Enseignant du secondaire, collège-lycée.</NA>
+        <ORIGINE>scolomfr-voc-021</ORIGINE>
+        <TERME_TE>
+            <INTITULE>professeur de collège</INTITULE>
+            <ID>scolomfr-voc-021-num-00091</ID>
+            <ORIGINE>scolomfr-voc-021</ORIGINE>
+        </TERME_TE>
+        <TERME_TE>
+            <INTITULE>professeur de lycée</INTITULE>
+            <ID>scolomfr-voc-021-num-00092</ID>
+            <ORIGINE>scolomfr-voc-021</ORIGINE>
+        </TERME_TE>
+    </TERME>
+    <TERME>
+        <INTITULE>enseignant documentaliste</INTITULE>
+        <ID>scolomfr-voc-021-num-0010</ID>
+        <DF>Public cible détaillé</DF>
+        <ORIGINE>scolomfr-voc-021</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>enseignant du supérieur</INTITULE>
+        <ID>scolomfr-voc-021-num-0011</ID>
+        <DF>Public cible détaillé</DF>
+        <ORIGINE>scolomfr-voc-021</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>étudiant</INTITULE>
+        <ID>scolomfr-voc-021-num-0012</ID>
+        <DF>Public cible détaillé</DF>
+        <NA>Apprenant du niveau post-baccalauréat.</NA>
+        <ORIGINE>scolomfr-voc-021</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>parent</INTITULE>
+        <ID>scolomfr-voc-021-num-0013</ID>
+        <DF>Public cible détaillé</DF>
+        <ORIGINE>scolomfr-voc-021</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>personnel administratif</INTITULE>
+        <ID>scolomfr-voc-021-num-0014</ID>
+        <DF>Public cible détaillé</DF>
+        <ORIGINE>scolomfr-voc-021</ORIGINE>
+        <TERME_TE>
+            <INTITULE>équipe administration</INTITULE>
+            <ID>scolomfr-voc-021-num-00142</ID>
+            <ORIGINE>scolomfr-voc-021</ORIGINE>
+        </TERME_TE>
+        <TERME_TE>
+            <INTITULE>personnel d'administration</INTITULE>
+            <ID>scolomfr-voc-021-num-00141</ID>
+            <ORIGINE>scolomfr-voc-021</ORIGINE>
+        </TERME_TE>
+    </TERME>
+    <TERME>
+        <INTITULE>personnel d'éducation</INTITULE>
+        <ID>scolomfr-voc-021-num-0015</ID>
+        <DF>Public cible détaillé</DF>
+        <ORIGINE>scolomfr-voc-021</ORIGINE>
+        <TERME_TE>
+            <INTITULE>CPE (conseiller principal d'éducation)</INTITULE>
+            <ID>scolomfr-voc-021-num-00151</ID>
+            <ORIGINE>scolomfr-voc-021</ORIGINE>
+        </TERME_TE>
+    </TERME>
+    <TERME>
+        <INTITULE>personnel d'inspection</INTITULE>
+        <ID>scolomfr-voc-021-num-0017</ID>
+        <DF>Public cible détaillé</DF>
+        <NA>Personnel acteur de la communauté éducative mais n'ayant pas un rôle d'enseignant (donc non-enseignant).</NA>
+        <ORIGINE>scolomfr-voc-021</ORIGINE>
+        <TERME_TE>
+            <INTITULE>inspecteur</INTITULE>
+            <ID>scolomfr-voc-021-num-00171</ID>
+            <ORIGINE>scolomfr-voc-021</ORIGINE>
+        </TERME_TE>
+    </TERME>
+    <TERME>
+        <INTITULE>personnel d'orientation</INTITULE>
+        <ID>scolomfr-voc-021-num-0016</ID>
+        <DF>Public cible détaillé</DF>
+        <ORIGINE>scolomfr-voc-021</ORIGINE>
+        <TERME_TE>
+            <INTITULE>personnel d'orientation éducatif</INTITULE>
+            <ID>scolomfr-voc-021-num-00161</ID>
+            <ORIGINE>scolomfr-voc-021</ORIGINE>
+        </TERME_TE>
+        <TERME_TE>
+            <INTITULE>personnel d'orientation professionnelle</INTITULE>
+            <ID>scolomfr-voc-021-num-00162</ID>
+            <ORIGINE>scolomfr-voc-021</ORIGINE>
+        </TERME_TE>
+    </TERME>
+    <TERME>
+        <INTITULE>personnel de bibliothèque et de documentation</INTITULE>
+        <ID>scolomfr-voc-021-num-0018</ID>
+        <DF>Public cible détaillé</DF>
+        <NA>A utiliser pour les personnels de bibliothèque et de documentation hors communauté éducative.</NA>
+        <ORIGINE>scolomfr-voc-021</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>personnel de direction</INTITULE>
+        <ID>scolomfr-voc-021-num-0019</ID>
+        <DF>Public cible détaillé</DF>
+        <ORIGINE>scolomfr-voc-021</ORIGINE>
+        <TERME_TE>
+            <INTITULE>chef d'établissement</INTITULE>
+            <ID>scolomfr-voc-021-num-00191</ID>
+            <ORIGINE>scolomfr-voc-021</ORIGINE>
+        </TERME_TE>
+    </TERME>
+    <TERME>
+        <INTITULE>personnel de laboratoire</INTITULE>
+        <ID>scolomfr-voc-021-num-0020</ID>
+        <DF>Public cible détaillé</DF>
+        <ORIGINE>scolomfr-voc-021</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>personnel de recherche et de formation</INTITULE>
+        <ID>scolomfr-voc-021-num-0021</ID>
+        <DF>Public cible détaillé</DF>
+        <ORIGINE>scolomfr-voc-021</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>personnel médico-social</INTITULE>
+        <ID>scolomfr-voc-021-num-0022</ID>
+        <DF>Public cible détaillé</DF>
+        <ORIGINE>scolomfr-voc-021</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>professeur des écoles</INTITULE>
+        <ID>scolomfr-voc-021-num-0023</ID>
+        <DF>Public cible détaillé</DF>
+        <ORIGINE>scolomfr-voc-021</ORIGINE>
+        <TERME_TE>
+            <INTITULE>instituteur</INTITULE>
+            <ID>scolomfr-voc-021-num-00231</ID>
+            <ORIGINE>scolomfr-voc-021</ORIGINE>
+        </TERME_TE>
+    </TERME>
+    <TERME>
+        <INTITULE>autre public</INTITULE>
+        <ID>scolomfr-voc-021-num-0003</ID>
+        <DF>Public cible détaillé</DF>
+        <NA>Public hors communauté éducative.</NA>
+        <ORIGINE>scolomfr-voc-021</ORIGINE>
+    </TERME>
+</NOMENCLATURE>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lomfr:lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:lom="http://ltsc.ieee.org/xsd/LOM" xmlns:scolomfr="http://www.lom-fr.fr/xsd/SCOLOMFR" xmlns:lomfr="http://www.lom-fr.fr/xsd/LOMFR" xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lom.xsd">
+ <lom:general>
+  <lom:identifier>
+   <lom:catalog>URI</lom:catalog>
+   <lom:entry>http://mediatheque.abuledu.org/URI/CODETEST</lom:entry>
+  </lom:identifier>
+ </lom:general>
+ <lom:technical>
+  <lom:location>http://mediatheque.abuledu.org/URI/CODETEST</lom:location>
+ </lom:technical>
+</lomfr:lom>

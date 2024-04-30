@@ -1,0 +1,941 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE NOMENCLATURE SYSTEM "Dtd-Nomenclature.dtd">
+<NOMENCLATURE>
+    <TERME>
+        <INTITULE>domaines d'enseignement du premier degré</INTITULE>
+        <ID>scolomfr-voc-015-num-007</ID>
+        <DF>Domaine d'enseignement</DF>
+        <ORIGINE>scolomfr-voc-015</ORIGINE>
+        <TS>
+            <TERME>
+                <INTITULE>culture humaniste</INTITULE>
+                <ID>scolomfr-voc-015-num-096</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+                <TERME_TE>
+                    <INTITULE>histoire - géographie</INTITULE>
+                    <ID>scolomfr-voc-015-num-115</ID>
+                    <ORIGINE>scolomfr-voc-015</ORIGINE>
+                </TERME_TE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>découverte du monde</INTITULE>
+                <ID>scolomfr-voc-015-num-097</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+                <TERME_TE>
+                    <INTITULE>histoire - géographie</INTITULE>
+                    <ID>scolomfr-voc-015-num-115</ID>
+                    <ORIGINE>scolomfr-voc-015</ORIGINE>
+                </TERME_TE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>devenir élève</INTITULE>
+                <ID>scolomfr-voc-015-num-098</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>éducation physique et sportive</INTITULE>
+                <ID>scolomfr-voc-015-num-031</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+                <TERME_TE>
+                    <INTITULE>E.P.S.</INTITULE>
+                    <ID>scolomfr-voc-015-num-113</ID>
+                    <ORIGINE>scolomfr-voc-015</ORIGINE>
+                </TERME_TE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>français</INTITULE>
+                <ID>scolomfr-voc-015-num-035</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>histoire des arts</INTITULE>
+                <ID>scolomfr-voc-015-num-041</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>instruction civique et morale</INTITULE>
+                <ID>scolomfr-voc-015-num-102</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>langue vivante</INTITULE>
+                <ID>scolomfr-voc-015-num-103</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>mathématiques</INTITULE>
+                <ID>scolomfr-voc-015-num-054</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+                <TERME_TE>
+                    <INTITULE>MATH</INTITULE>
+                    <ID>scolomfr-voc-015-num-119</ID>
+                    <ORIGINE>scolomfr-voc-015</ORIGINE>
+                </TERME_TE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>pratiques artistiques</INTITULE>
+                <ID>scolomfr-voc-015-num-105</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>s'approprier le langage</INTITULE>
+                <ID>scolomfr-voc-015-num-106</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>sciences expérimentales et technologie</INTITULE>
+                <ID>scolomfr-voc-015-num-107</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>techniques usuelles de l'information et de la communication</INTITULE>
+                <ID>scolomfr-voc-015-num-108</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+    </TERME>
+    <TERME>
+        <INTITULE>domaines d'enseignement du second degré</INTITULE>
+        <ID>scolomfr-voc-015-num-008</ID>
+        <DF>Domaine d'enseignement</DF>
+        <ORIGINE>scolomfr-voc-015</ORIGINE>
+        <TS>
+            <TERME>
+                <INTITULE>allemand</INTITULE>
+                <ID>scolomfr-voc-015-num-086</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>anglais</INTITULE>
+                <ID>scolomfr-voc-015-num-087</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>arabe</INTITULE>
+                <ID>scolomfr-voc-015-num-088</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>architecture et construction</INTITULE>
+                <ID>scolomfr-voc-015-num-002</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>arts, techniques et civilisations</INTITULE>
+                <ID>scolomfr-voc-015-num-079</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>arts (option)</INTITULE>
+                <ID>scolomfr-voc-015-num-003</ID>
+                <DF>Domaine d'enseignement</DF>
+                <NA>Option spécifique au lycée.
+</NA>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>arts du cirque</INTITULE>
+                <ID>scolomfr-voc-015-num-005</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>arts plastiques</INTITULE>
+                <ID>scolomfr-voc-015-num-006</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>biologie et physiopathologie humaines</INTITULE>
+                <ID>scolomfr-voc-015-num-009</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+                <TERME_TE>
+                    <INTITULE>BPH</INTITULE>
+                    <ID>scolomfr-voc-015-num-109</ID>
+                    <ORIGINE>scolomfr-voc-015</ORIGINE>
+                </TERME_TE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>biotechnologies</INTITULE>
+                <ID>scolomfr-voc-015-num-010</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>chimie, biochimie, sciences du vivant</INTITULE>
+                <ID>scolomfr-voc-015-num-011</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>chimie</INTITULE>
+                <ID>scolomfr-voc-015-num-012</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>chinois</INTITULE>
+                <ID>scolomfr-voc-015-num-089</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>cinéma - audiovisuel</INTITULE>
+                <ID>scolomfr-voc-015-num-013</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>communication et gestion des ressources humaines</INTITULE>
+                <ID>scolomfr-voc-015-num-014</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+                <TERME_TE>
+                    <INTITULE>ressources humaines et communication</INTITULE>
+                    <ID>scolomfr-voc-015-num-110</ID>
+                    <ORIGINE>scolomfr-voc-015</ORIGINE>
+                </TERME_TE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>comptabilité et finance d'entreprise</INTITULE>
+                <ID>scolomfr-voc-015-num-015</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+                <TERME_TE>
+                    <INTITULE>gestion et finance</INTITULE>
+                    <ID>scolomfr-voc-015-num-111</ID>
+                    <ORIGINE>scolomfr-voc-015</ORIGINE>
+                </TERME_TE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>création et activités artistiques</INTITULE>
+                <ID>scolomfr-voc-015-num-016</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>création et culture design</INTITULE>
+                <ID>scolomfr-voc-015-num-017</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>création et innovation technologiques</INTITULE>
+                <ID>scolomfr-voc-015-num-018</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>danse</INTITULE>
+                <ID>scolomfr-voc-015-num-019</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>découverte professionnelle</INTITULE>
+                <ID>scolomfr-voc-015-num-020</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>design et arts appliqués</INTITULE>
+                <ID>scolomfr-voc-015-num-021</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>documentation</INTITULE>
+                <ID>scolomfr-voc-015-num-022</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>droit</INTITULE>
+                <ID>scolomfr-voc-015-num-023</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>droit et grands enjeux du monde contemporain</INTITULE>
+                <ID>scolomfr-voc-015-num-024</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>économie</INTITULE>
+                <ID>scolomfr-voc-015-num-025</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>économie approfondie</INTITULE>
+                <ID>scolomfr-voc-015-num-026</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>économie et droit</INTITULE>
+                <ID>scolomfr-voc-015-num-027</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+                <TERME_TE>
+                    <INTITULE>économie - droit</INTITULE>
+                    <ID>scolomfr-voc-015-num-112</ID>
+                    <ORIGINE>scolomfr-voc-015</ORIGINE>
+                </TERME_TE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>éducation civique, juridique et sociale</INTITULE>
+                <ID>scolomfr-voc-015-num-028</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>éducation civique</INTITULE>
+                <ID>scolomfr-voc-015-num-029</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>éducation musicale</INTITULE>
+                <ID>scolomfr-voc-015-num-030</ID>
+                <DF>Domaine d'enseignement</DF>
+                <NA>Option spécifique au collège. Pour le lycée, utiliser "musique".
+</NA>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>éducation physique et sportive</INTITULE>
+                <ID>scolomfr-voc-015-num-031</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+                <TERME_TE>
+                    <INTITULE>E.P.S.</INTITULE>
+                    <ID>scolomfr-voc-015-num-113</ID>
+                    <ORIGINE>scolomfr-voc-015</ORIGINE>
+                </TERME_TE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>énergies et environnement</INTITULE>
+                <ID>scolomfr-voc-015-num-032</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>enseignements technologiques transversaux</INTITULE>
+                <ID>scolomfr-voc-015-num-033</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>enseignement technologique en LV1</INTITULE>
+                <ID>scolomfr-voc-015-num-034</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>espagnol</INTITULE>
+                <ID>scolomfr-voc-015-num-090</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>étude de cas (arts appliqués)</INTITULE>
+                <ID>scolomfr-voc-015-num-078</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>expression plastique</INTITULE>
+                <ID>scolomfr-voc-015-num-080</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>français</INTITULE>
+                <ID>scolomfr-voc-015-num-035</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>géographie</INTITULE>
+                <ID>scolomfr-voc-015-num-036</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>gestion commerciale</INTITULE>
+                <ID>scolomfr-voc-015-num-037</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>gestion des systèmes d'information</INTITULE>
+                <ID>scolomfr-voc-015-num-038</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>gestion et finances</INTITULE>
+                <ID>scolomfr-voc-015-num-039</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>hébreu</INTITULE>
+                <ID>scolomfr-voc-015-num-091</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>histoire</INTITULE>
+                <ID>scolomfr-voc-015-num-040</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>histoire des arts</INTITULE>
+                <ID>scolomfr-voc-015-num-041</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>histoire et géographie</INTITULE>
+                <ID>scolomfr-voc-015-num-042</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+                <TERME_TE>
+                    <INTITULE>histoire - géographie</INTITULE>
+                    <ID>scolomfr-voc-015-num-115</ID>
+                    <ORIGINE>scolomfr-voc-015</ORIGINE>
+                </TERME_TE>
+                <TERME_TE>
+                    <INTITULE>HIST-GEO</INTITULE>
+                    <ID>scolomfr-voc-015-num-114</ID>
+                    <ORIGINE>scolomfr-voc-015</ORIGINE>
+                </TERME_TE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>information et communication</INTITULE>
+                <ID>scolomfr-voc-015-num-043</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>informatique et sciences du numérique</INTITULE>
+                <ID>scolomfr-voc-015-num-044</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>innovation technologique et éco-conception</INTITULE>
+                <ID>scolomfr-voc-015-num-045</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>italien</INTITULE>
+                <ID>scolomfr-voc-015-num-092</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>japonais</INTITULE>
+                <ID>scolomfr-voc-015-num-093</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>langues et cultures de l'antiquité (grec)</INTITULE>
+                <ID>scolomfr-voc-015-num-046</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+                <TERME_TE>
+                    <INTITULE>LCA (grec)</INTITULE>
+                    <ID>scolomfr-voc-015-num-116</ID>
+                    <ORIGINE>scolomfr-voc-015</ORIGINE>
+                </TERME_TE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>langues et cultures de l'antiquité (latin)</INTITULE>
+                <ID>scolomfr-voc-015-num-047</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+                <TERME_TE>
+                    <INTITULE>LCA (latin)</INTITULE>
+                    <ID>scolomfr-voc-015-num-117</ID>
+                    <ORIGINE>scolomfr-voc-015</ORIGINE>
+                </TERME_TE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>langues et cultures de l'antiquité</INTITULE>
+                <ID>scolomfr-voc-015-num-001</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>langues régionales</INTITULE>
+                <ID>scolomfr-voc-015-num-048</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+                <TERME_TE>
+                    <INTITULE>langues et cultures régionales</INTITULE>
+                    <ID>scolomfr-voc-015-num-118</ID>
+                    <ORIGINE>scolomfr-voc-015</ORIGINE>
+                </TERME_TE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>langues vivantes</INTITULE>
+                <ID>scolomfr-voc-015-num-049</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>littérature</INTITULE>
+                <ID>scolomfr-voc-015-num-050</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>littérature étrangère en langue étrangère</INTITULE>
+                <ID>scolomfr-voc-015-num-051</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>littérature et société</INTITULE>
+                <ID>scolomfr-voc-015-num-052</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>management des organisations</INTITULE>
+                <ID>scolomfr-voc-015-num-053</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>mathématiques</INTITULE>
+                <ID>scolomfr-voc-015-num-054</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+                <TERME_TE>
+                    <INTITULE>MATH</INTITULE>
+                    <ID>scolomfr-voc-015-num-119</ID>
+                    <ORIGINE>scolomfr-voc-015</ORIGINE>
+                </TERME_TE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>mercatique</INTITULE>
+                <ID>scolomfr-voc-015-num-055</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>mesure et instrumentation</INTITULE>
+                <ID>scolomfr-voc-015-num-056</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>méthodes et pratiques scientifiques</INTITULE>
+                <ID>scolomfr-voc-015-num-057</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>musique</INTITULE>
+                <ID>scolomfr-voc-015-num-058</ID>
+                <DF>Domaine d'enseignement</DF>
+                <NA>Option spécifique au lycée. Pour le collège, utiliser "éducation musicale".
+</NA>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>philosophie</INTITULE>
+                <ID>scolomfr-voc-015-num-059</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>physique</INTITULE>
+                <ID>scolomfr-voc-015-num-060</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>physique-chimie</INTITULE>
+                <ID>scolomfr-voc-015-num-061</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+                <TERME_TE>
+                    <INTITULE>sciences physiques et chimiques</INTITULE>
+                    <ID>scolomfr-voc-015-num-120</ID>
+                    <ORIGINE>scolomfr-voc-015</ORIGINE>
+                </TERME_TE>
+                <TERME_TE>
+                    <INTITULE>SPC</INTITULE>
+                    <ID>scolomfr-voc-015-num-122</ID>
+                    <ORIGINE>scolomfr-voc-015</ORIGINE>
+                </TERME_TE>
+                <TERME_TE>
+                    <INTITULE>sciences physiques</INTITULE>
+                    <ID>scolomfr-voc-015-num-121</ID>
+                    <ORIGINE>scolomfr-voc-015</ORIGINE>
+                </TERME_TE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>portugais</INTITULE>
+                <ID>scolomfr-voc-015-num-094</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>principes fondamentaux de l'économie et de la gestion</INTITULE>
+                <ID>scolomfr-voc-015-num-062</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>recherche appliquée (arts)</INTITULE>
+                <ID>scolomfr-voc-015-num-081</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>représentation conventionnelle</INTITULE>
+                <ID>scolomfr-voc-015-num-082</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>ressources humaines et communication</INTITULE>
+                <ID>scolomfr-voc-015-num-064</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>russe</INTITULE>
+                <ID>scolomfr-voc-015-num-095</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>santé et social</INTITULE>
+                <ID>scolomfr-voc-015-num-065</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>sciences</INTITULE>
+                <ID>scolomfr-voc-015-num-066</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+                <TERME_TE>
+                    <INTITULE>enseignement scientifique</INTITULE>
+                    <ID>scolomfr-voc-015-num-084</ID>
+                    <ORIGINE>scolomfr-voc-015</ORIGINE>
+                </TERME_TE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>sciences de gestion</INTITULE>
+                <ID>scolomfr-voc-015-num-067</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>sciences de l'ingénieur</INTITULE>
+                <ID>scolomfr-voc-015-num-068</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>sciences de la vie et de la Terre</INTITULE>
+                <ID>scolomfr-voc-015-num-069</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>sciences économiques et sociales</INTITULE>
+                <ID>scolomfr-voc-015-num-070</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>sciences et laboratoire</INTITULE>
+                <ID>scolomfr-voc-015-num-071</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>sciences et techniques sanitaires et sociales</INTITULE>
+                <ID>scolomfr-voc-015-num-072</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>sciences physiques appliquées</INTITULE>
+                <ID>scolomfr-voc-015-num-083</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>sciences physiques et chimiques en laboratoire</INTITULE>
+                <ID>scolomfr-voc-015-num-073</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>sciences sociales et politiques</INTITULE>
+                <ID>scolomfr-voc-015-num-074</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>systèmes d'information de gestion</INTITULE>
+                <ID>scolomfr-voc-015-num-075</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>systèmes d'information et numérique</INTITULE>
+                <ID>scolomfr-voc-015-num-076</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>technologie</INTITULE>
+                <ID>scolomfr-voc-015-num-077</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>théâtre et expression dramatique</INTITULE>
+                <ID>scolomfr-voc-015-num-004</ID>
+                <DF>Domaine d'enseignement</DF>
+                <ORIGINE>scolomfr-voc-015</ORIGINE>
+            </TERME>
+        </TS>
+    </TERME>
+</NOMENCLATURE>

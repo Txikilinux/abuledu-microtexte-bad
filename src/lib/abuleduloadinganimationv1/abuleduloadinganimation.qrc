@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/data">
+        <file alias="anim1">data/anim1.gif</file>
+        <file alias="anim2">data/anim2.gif</file>
+        <file alias="anim3">data/anim3.gif</file>
+    </qresource>
+</RCC>

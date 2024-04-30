@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE NOMENCLATURE SYSTEM "Dtd-Nomenclature.dtd">
+<NOMENCLATURE>
+    <TERME>
+        <INTITULE>BTS brevet de technicien supérieur</INTITULE>
+        <ID>scolomfr-voc-022-num-059</ID>
+        <DF>Niveau détaillé</DF>
+        <ORIGINE>scolomfr-voc-022</ORIGINE>
+        <TERME_TE>
+            <INTITULE>enseignement supérieur</INTITULE>
+            <ID>scolomfr-voc-022-num-057</ID>
+            <ORIGINE>scolomfr-voc-022</ORIGINE>
+        </TERME_TE>
+        <TS>
+            <TERME>
+                <INTITULE>BTS - 1ère année</INTITULE>
+                <ID>scolomfr-voc-022-num-074</ID>
+                <DF>Niveau détaillé</DF>
+                <ORIGINE>scolomfr-voc-022</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>BTS - 2ème année</INTITULE>
+                <ID>scolomfr-voc-022-num-075</ID>
+                <DF>Niveau détaillé</DF>
+                <ORIGINE>scolomfr-voc-022</ORIGINE>
+            </TERME>
+        </TS>
+    </TERME>
+    <TERME>
+        <INTITULE>collège</INTITULE>
+        <ID>scolomfr-voc-022-num-016</ID>
+        <DF>Niveau détaillé</DF>
+        <ORIGINE>scolomfr-voc-022</ORIGINE>
+        <TERME_TE>
+            <INTITULE>enseignement secondaire</INTITULE>
+            <ID>scolomfr-voc-022-num-067</ID>
+            <ORIGINE>scolomfr-voc-022</ORIGINE>
+        </TERME_TE>
+        <TS>
+            <TERME>
+                <INTITULE>3e</INTITULE>
+                <ID>scolomfr-voc-022-num-023</ID>
+                <DF>Niveau détaillé</DF>
+                <ORIGINE>scolomfr-voc-022</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>4e</INTITULE>
+                <ID>scolomfr-voc-022-num-021</ID>
+                <DF>Niveau détaillé</DF>
+                <ORIGINE>scolomfr-voc-022</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>5e</INTITULE>
+                <ID>scolomfr-voc-022-num-020</ID>
+                <DF>Niveau détaillé</DF>
+                <ORIGINE>scolomfr-voc-022</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>6e</INTITULE>
+                <ID>scolomfr-voc-022-num-018</ID>
+                <DF>Niveau détaillé</DF>
+                <ORIGINE>scolomfr-voc-022</ORIGINE>
+            </TERME>
+        </TS>
+    </TERME>
+    <TERME>
+        <INTITULE>CPGE classe préparatoire aux grandes écoles</INTITULE>
+        <ID>scolomfr-voc-022-num-058</ID>
+        <DF>Niveau détaillé</DF>
+        <ORIGINE>scolomfr-voc-022</ORIGINE>
+        <TERME_TE>
+            <INTITULE>enseignement supérieur</INTITULE>
+            <ID>scolomfr-voc-022-num-057</ID>
+            <ORIGINE>scolomfr-voc-022</ORIGINE>
+        </TERME_TE>
+        <TS>
+            <TERME>
+                <INTITULE>CPGE - 1ère année</INTITULE>
+                <ID>scolomfr-voc-022-num-078</ID>
+                <DF>Niveau détaillé</DF>
+                <ORIGINE>scolomfr-voc-022</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>CPGE - 2ème année</INTITULE>
+                <ID>scolomfr-voc-022-num-079</ID>
+                <DF>Niveau détaillé</DF>
+                <ORIGINE>scolomfr-voc-022</ORIGINE>
+            </TERME>
+        </TS>
+    </TERME>
+    <TERME>
+        <INTITULE>cycles de l'enseignement scolaire</INTITULE>
+        <ID>scolomfr-voc-022-num-094</ID>
+        <DF>Noeud niveau détaillé</DF>
+        <ORIGINE>scolomfr-voc-022</ORIGINE>
+        <TS>
+            <TERME>
+                <INTITULE>classe de détermination</INTITULE>
+                <ID>scolomfr-voc-022-num-084</ID>
+                <DF>Niveau détaillé</DF>
+                <ORIGINE>scolomfr-voc-022</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>cycle 2</INTITULE>
+                <ID>scolomfr-voc-022-num-009</ID>
+                <DF>Niveau détaillé</DF>
+                <ORIGINE>scolomfr-voc-022</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>cycle 3</INTITULE>
+                <ID>scolomfr-voc-022-num-012</ID>
+                <DF>Niveau détaillé</DF>
+                <ORIGINE>scolomfr-voc-022</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>cycle central</INTITULE>
+                <ID>scolomfr-voc-022-num-019</ID>
+                <DF>Niveau détaillé</DF>
+                <ORIGINE>scolomfr-voc-022</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>cycle d'adaptation</INTITULE>
+                <ID>scolomfr-voc-022-num-017</ID>
+                <DF>Niveau détaillé</DF>
+                <ORIGINE>scolomfr-voc-022</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>cycle d'orientation</INTITULE>
+                <ID>scolomfr-voc-022-num-022</ID>
+                <DF>Niveau détaillé</DF>
+                <ORIGINE>scolomfr-voc-022</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>cycle terminal</INTITULE>
+                <ID>scolomfr-voc-022-num-085</ID>
+                <DF>Niveau détaillé</DF>
+                <ORIGINE>scolomfr-voc-022</ORIGINE>
+            </TERME>
+        </TS>
+    </TERME>
+    <TERME>
+        <INTITULE>DUT diplôme universitaire de technologie</INTITULE>
+        <ID>scolomfr-voc-022-num-060</ID>
+        <DF>Niveau détaillé</DF>
+        <ORIGINE>scolomfr-voc-022</ORIGINE>
+        <TERME_TE>
+            <INTITULE>enseignement supérieur</INTITULE>
+            <ID>scolomfr-voc-022-num-057</ID>
+            <ORIGINE>scolomfr-voc-022</ORIGINE>
+        </TERME_TE>
+        <TS>
+            <TERME>
+                <INTITULE>DUT - 1ère année</INTITULE>
+                <ID>scolomfr-voc-022-num-080</ID>
+                <DF>Niveau détaillé</DF>
+                <ORIGINE>scolomfr-voc-022</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>DUT - 2ème année</INTITULE>
+                <ID>scolomfr-voc-022-num-081</ID>
+                <DF>Niveau détaillé</DF>
+                <ORIGINE>scolomfr-voc-022</ORIGINE>
+            </TERME>
+        </TS>
+    </TERME>
+    <TERME>
+        <INTITULE>école élémentaire</INTITULE>
+        <ID>scolomfr-voc-022-num-008</ID>
+        <DF>Niveau détaillé</DF>
+        <ORIGINE>scolomfr-voc-022</ORIGINE>
+        <TERME_TE>
+            <INTITULE>enseignement primaire</INTITULE>
+            <ID>scolomfr-voc-022-num-001</ID>
+            <ORIGINE>scolomfr-voc-022</ORIGINE>
+        </TERME_TE>
+        <TS>
+            <TERME>
+                <INTITULE>CE1</INTITULE>
+                <ID>scolomfr-voc-022-num-011</ID>
+                <DF>Niveau détaillé</DF>
+                <ORIGINE>scolomfr-voc-022</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>CE2</INTITULE>
+                <ID>scolomfr-voc-022-num-013</ID>
+                <DF>Niveau détaillé</DF>
+                <ORIGINE>scolomfr-voc-022</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>CM1</INTITULE>
+                <ID>scolomfr-voc-022-num-014</ID>
+                <DF>Niveau détaillé</DF>
+                <ORIGINE>scolomfr-voc-022</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>CM2</INTITULE>
+                <ID>scolomfr-voc-022-num-015</ID>
+                <DF>Niveau détaillé</DF>
+                <ORIGINE>scolomfr-voc-022</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>CP</INTITULE>
+                <ID>scolomfr-voc-022-num-010</ID>
+                <DF>Niveau détaillé</DF>
+                <ORIGINE>scolomfr-voc-022</ORIGINE>
+            </TERME>
+        </TS>
+    </TERME>
+    <TERME>
+        <INTITULE>école maternelle</INTITULE>
+        <ID>scolomfr-voc-022-num-002</ID>
+        <DF>Niveau détaillé</DF>
+        <ORIGINE>scolomfr-voc-022</ORIGINE>
+        <TERME_TE>
+            <INTITULE>enseignement primaire</INTITULE>
+            <ID>scolomfr-voc-022-num-001</ID>
+            <ORIGINE>scolomfr-voc-022</ORIGINE>
+        </TERME_TE>
+        <TERME_TE>
+            <INTITULE>cycle 1</INTITULE>
+            <ID>scolomfr-voc-022-num-003</ID>
+            <ORIGINE>scolomfr-voc-022</ORIGINE>
+        </TERME_TE>
+        <TS>
+            <TERME>
+                <INTITULE>grande section</INTITULE>
+                <ID>scolomfr-voc-022-num-007</ID>
+                <DF>Niveau détaillé</DF>
+                <ORIGINE>scolomfr-voc-022</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>moyenne section</INTITULE>
+                <ID>scolomfr-voc-022-num-006</ID>
+                <DF>Niveau détaillé</DF>
+                <ORIGINE>scolomfr-voc-022</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>petite section</INTITULE>
+                <ID>scolomfr-voc-022-num-005</ID>
+                <DF>Niveau détaillé</DF>
+                <ORIGINE>scolomfr-voc-022</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>toute petite section</INTITULE>
+                <ID>scolomfr-voc-022-num-004</ID>
+                <DF>Niveau détaillé</DF>
+                <ORIGINE>scolomfr-voc-022</ORIGINE>
+            </TERME>
+        </TS>
+    </TERME>
+    <TERME>
+        <INTITULE>enseignement professionnel - mention complémentaire</INTITULE>
+        <ID>scolomfr-voc-022-num-061</ID>
+        <DF>Niveau détaillé</DF>
+        <ORIGINE>scolomfr-voc-022</ORIGINE>
+        <TERME_TE>
+            <INTITULE>enseignement supérieur</INTITULE>
+            <ID>scolomfr-voc-022-num-057</ID>
+            <ORIGINE>scolomfr-voc-022</ORIGINE>
+        </TERME_TE>
+    </TERME>
+    <TERME>
+        <INTITULE>formation continue des personnels de l'éducation</INTITULE>
+        <ID>scolomfr-voc-022-num-063</ID>
+        <DF>Niveau détaillé</DF>
+        <ORIGINE>scolomfr-voc-022</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>formation professionnelle des personnels de l'éducation</INTITULE>
+        <ID>scolomfr-voc-022-num-062</ID>
+        <DF>Niveau détaillé</DF>
+        <ORIGINE>scolomfr-voc-022</ORIGINE>
+        <TERME_TE>
+            <INTITULE>formation initiale</INTITULE>
+            <ID>scolomfr-voc-022-num-064</ID>
+            <ORIGINE>scolomfr-voc-022</ORIGINE>
+        </TERME_TE>
+    </TERME>
+    <TERME>
+        <INTITULE>lycée</INTITULE>
+        <ID>scolomfr-voc-022-num-024</ID>
+        <DF>Niveau détaillé</DF>
+        <ORIGINE>scolomfr-voc-022</ORIGINE>
+        <TERME_TE>
+            <INTITULE>enseignement secondaire</INTITULE>
+            <ID>scolomfr-voc-022-num-067</ID>
+            <ORIGINE>scolomfr-voc-022</ORIGINE>
+        </TERME_TE>
+        <TS>
+            <TERME>
+                <INTITULE>BMA brevet des métiers d'art</INTITULE>
+                <ID>scolomfr-voc-022-num-051</ID>
+                <DF>Niveau détaillé</DF>
+                <ORIGINE>scolomfr-voc-022</ORIGINE>
+                <TS>
+                    <TERME>
+                        <INTITULE>BMA - 1ère année</INTITULE>
+                        <ID>scolomfr-voc-022-num-068</ID>
+                        <DF>Niveau détaillé</DF>
+                        <ORIGINE>scolomfr-voc-022</ORIGINE>
+                    </TERME>
+                </TS>
+                <TS>
+                    <TERME>
+                        <INTITULE>BMA - 2ème année</INTITULE>
+                        <ID>scolomfr-voc-022-num-069</ID>
+                        <DF>Niveau détaillé</DF>
+                        <ORIGINE>scolomfr-voc-022</ORIGINE>
+                    </TERME>
+                </TS>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>BP brevet professionnel</INTITULE>
+                <ID>scolomfr-voc-022-num-052</ID>
+                <DF>Niveau détaillé</DF>
+                <ORIGINE>scolomfr-voc-022</ORIGINE>
+                <TS>
+                    <TERME>
+                        <INTITULE>BP - 1ère année</INTITULE>
+                        <ID>scolomfr-voc-022-num-070</ID>
+                        <DF>Niveau détaillé</DF>
+                        <ORIGINE>scolomfr-voc-022</ORIGINE>
+                    </TERME>
+                </TS>
+                <TS>
+                    <TERME>
+                        <INTITULE>BP - 2ème année</INTITULE>
+                        <ID>scolomfr-voc-022-num-071</ID>
+                        <DF>Niveau détaillé</DF>
+                        <ORIGINE>scolomfr-voc-022</ORIGINE>
+                    </TERME>
+                </TS>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>BTM brevet technique des métiers</INTITULE>
+                <ID>scolomfr-voc-022-num-053</ID>
+                <DF>Niveau détaillé</DF>
+                <ORIGINE>scolomfr-voc-022</ORIGINE>
+                <TS>
+                    <TERME>
+                        <INTITULE>BTM - 1ère année</INTITULE>
+                        <ID>scolomfr-voc-022-num-072</ID>
+                        <DF>Niveau détaillé</DF>
+                        <ORIGINE>scolomfr-voc-022</ORIGINE>
+                    </TERME>
+                </TS>
+                <TS>
+                    <TERME>
+                        <INTITULE>BTM - 2ème année</INTITULE>
+                        <ID>scolomfr-voc-022-num-073</ID>
+                        <DF>Niveau détaillé</DF>
+                        <ORIGINE>scolomfr-voc-022</ORIGINE>
+                    </TERME>
+                </TS>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>CAP - certificat d'aptitude professionnelle</INTITULE>
+                <ID>scolomfr-voc-022-num-054</ID>
+                <DF>Niveau détaillé</DF>
+                <ORIGINE>scolomfr-voc-022</ORIGINE>
+                <TS>
+                    <TERME>
+                        <INTITULE>CAP - 1ère année</INTITULE>
+                        <ID>scolomfr-voc-022-num-076</ID>
+                        <DF>Niveau détaillé</DF>
+                        <ORIGINE>scolomfr-voc-022</ORIGINE>
+                    </TERME>
+                </TS>
+                <TS>
+                    <TERME>
+                        <INTITULE>CAP - 2ème année</INTITULE>
+                        <ID>scolomfr-voc-022-num-077</ID>
+                        <DF>Niveau détaillé</DF>
+                        <ORIGINE>scolomfr-voc-022</ORIGINE>
+                    </TERME>
+                </TS>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>FCIL formation complémentaire d'initiative locale</INTITULE>
+                <ID>scolomfr-voc-022-num-055</ID>
+                <DF>Niveau détaillé</DF>
+                <ORIGINE>scolomfr-voc-022</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>MC mention complémentaire</INTITULE>
+                <ID>scolomfr-voc-022-num-056</ID>
+                <DF>Niveau détaillé</DF>
+                <ORIGINE>scolomfr-voc-022</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>voie générale et technologique</INTITULE>
+                <ID>scolomfr-voc-022-num-066</ID>
+                <DF>Niveau détaillé</DF>
+                <ORIGINE>scolomfr-voc-022</ORIGINE>
+                <TERME_TE>
+                    <INTITULE>lycée d'enseignement général et technologique</INTITULE>
+                    <ID>scolomfr-voc-022-num-086</ID>
+                    <ORIGINE>scolomfr-voc-022</ORIGINE>
+                </TERME_TE>
+                <TS>
+                    <TERME>
+                        <INTITULE>1ère générale et technologique</INTITULE>
+                        <ID>scolomfr-voc-022-num-091</ID>
+                        <DF>Niveau détaillé</DF>
+                        <ORIGINE>scolomfr-voc-022</ORIGINE>
+                        <TERME_TE>
+                            <INTITULE>1ère</INTITULE>
+                            <ID>scolomfr-voc-022-num-028</ID>
+                            <ORIGINE>scolomfr-voc-022</ORIGINE>
+                        </TERME_TE>
+                        <TS>
+                            <TERME>
+                                <INTITULE>1ère ES</INTITULE>
+                                <ID>scolomfr-voc-022-num-029</ID>
+                                <DF>Niveau détaillé</DF>
+                                <ORIGINE>scolomfr-voc-022</ORIGINE>
+                            </TERME>
+                        </TS>
+                        <TS>
+                            <TERME>
+                                <INTITULE>1ère L</INTITULE>
+                                <ID>scolomfr-voc-022-num-030</ID>
+                                <DF>Niveau détaillé</DF>
+                                <ORIGINE>scolomfr-voc-022</ORIGINE>
+                            </TERME>
+                        </TS>
+                        <TS>
+                            <TERME>
+                                <INTITULE>1ère S</INTITULE>
+                                <ID>scolomfr-voc-022-num-031</ID>
+                                <DF>Niveau détaillé</DF>
+                                <ORIGINE>scolomfr-voc-022</ORIGINE>
+                            </TERME>
+                        </TS>
+                        <TS>
+                            <TERME>
+                                <INTITULE>1ère ST2S</INTITULE>
+                                <ID>scolomfr-voc-022-num-032</ID>
+                                <DF>Niveau détaillé</DF>
+                                <ORIGINE>scolomfr-voc-022</ORIGINE>
+                            </TERME>
+                        </TS>
+                        <TS>
+                            <TERME>
+                                <INTITULE>1ère STD2A</INTITULE>
+                                <ID>scolomfr-voc-022-num-033</ID>
+                                <DF>Niveau détaillé</DF>
+                                <ORIGINE>scolomfr-voc-022</ORIGINE>
+                            </TERME>
+                        </TS>
+                        <TS>
+                            <TERME>
+                                <INTITULE>1ère STG</INTITULE>
+                                <ID>scolomfr-voc-022-num-034</ID>
+                                <DF>Niveau détaillé</DF>
+                                <ORIGINE>scolomfr-voc-022</ORIGINE>
+                            </TERME>
+                        </TS>
+                        <TS>
+                            <TERME>
+                                <INTITULE>1ère STI2D</INTITULE>
+                                <ID>scolomfr-voc-022-num-035</ID>
+                                <DF>Niveau détaillé</DF>
+                                <ORIGINE>scolomfr-voc-022</ORIGINE>
+                            </TERME>
+                        </TS>
+                        <TS>
+                            <TERME>
+                                <INTITULE>1ère STL</INTITULE>
+                                <ID>scolomfr-voc-022-num-036</ID>
+                                <DF>Niveau détaillé</DF>
+                                <ORIGINE>scolomfr-voc-022</ORIGINE>
+                            </TERME>
+                        </TS>
+                        <TS>
+                            <TERME>
+                                <INTITULE>1ère STMG</INTITULE>
+                                <ID>scolomfr-voc-022-num-082</ID>
+                                <DF>Niveau détaillé</DF>
+                                <ORIGINE>scolomfr-voc-022</ORIGINE>
+                            </TERME>
+                        </TS>
+                        <TS>
+                            <TERME>
+                                <INTITULE>1ère techno hôtellerie</INTITULE>
+                                <ID>scolomfr-voc-022-num-037</ID>
+                                <DF>Niveau détaillé</DF>
+                                <ORIGINE>scolomfr-voc-022</ORIGINE>
+                            </TERME>
+                        </TS>
+                    </TERME>
+                </TS>
+                <TS>
+                    <TERME>
+                        <INTITULE>2de générale</INTITULE>
+                        <ID>scolomfr-voc-022-num-026</ID>
+                        <DF>Niveau détaillé</DF>
+                        <ORIGINE>scolomfr-voc-022</ORIGINE>
+                        <TERME_TE>
+                            <INTITULE>2de</INTITULE>
+                            <ID>scolomfr-voc-022-num-025</ID>
+                            <ORIGINE>scolomfr-voc-022</ORIGINE>
+                        </TERME_TE>
+                    </TERME>
+                </TS>
+                <TS>
+                    <TERME>
+                        <INTITULE>terminale générale et technologique</INTITULE>
+                        <ID>scolomfr-voc-022-num-088</ID>
+                        <DF>Niveau détaillé</DF>
+                        <ORIGINE>scolomfr-voc-022</ORIGINE>
+                        <TERME_TE>
+                            <INTITULE>terminale</INTITULE>
+                            <ID>scolomfr-voc-022-num-039</ID>
+                            <ORIGINE>scolomfr-voc-022</ORIGINE>
+                        </TERME_TE>
+                        <TS>
+                            <TERME>
+                                <INTITULE>terminale ES</INTITULE>
+                                <ID>scolomfr-voc-022-num-040</ID>
+                                <DF>Niveau détaillé</DF>
+                                <ORIGINE>scolomfr-voc-022</ORIGINE>
+                            </TERME>
+                        </TS>
+                        <TS>
+                            <TERME>
+                                <INTITULE>terminale L</INTITULE>
+                                <ID>scolomfr-voc-022-num-041</ID>
+                                <DF>Niveau détaillé</DF>
+                                <ORIGINE>scolomfr-voc-022</ORIGINE>
+                            </TERME>
+                        </TS>
+                        <TS>
+                            <TERME>
+                                <INTITULE>terminale S</INTITULE>
+                                <ID>scolomfr-voc-022-num-042</ID>
+                                <DF>Niveau détaillé</DF>
+                                <ORIGINE>scolomfr-voc-022</ORIGINE>
+                            </TERME>
+                        </TS>
+                        <TS>
+                            <TERME>
+                                <INTITULE>terminale ST2S</INTITULE>
+                                <ID>scolomfr-voc-022-num-043</ID>
+                                <DF>Niveau détaillé</DF>
+                                <ORIGINE>scolomfr-voc-022</ORIGINE>
+                            </TERME>
+                        </TS>
+                        <TS>
+                            <TERME>
+                                <INTITULE>terminale STD2A</INTITULE>
+                                <ID>scolomfr-voc-022-num-044</ID>
+                                <DF>Niveau détaillé</DF>
+                                <ORIGINE>scolomfr-voc-022</ORIGINE>
+                            </TERME>
+                        </TS>
+                        <TS>
+                            <TERME>
+                                <INTITULE>terminale STG</INTITULE>
+                                <ID>scolomfr-voc-022-num-045</ID>
+                                <DF>Niveau détaillé</DF>
+                                <ORIGINE>scolomfr-voc-022</ORIGINE>
+                            </TERME>
+                        </TS>
+                        <TS>
+                            <TERME>
+                                <INTITULE>terminale STI</INTITULE>
+                                <ID>scolomfr-voc-022-num-046</ID>
+                                <DF>Niveau détaillé</DF>
+                                <ORIGINE>scolomfr-voc-022</ORIGINE>
+                            </TERME>
+                        </TS>
+                        <TS>
+                            <TERME>
+                                <INTITULE>terminale STI2D</INTITULE>
+                                <ID>scolomfr-voc-022-num-047</ID>
+                                <DF>Niveau détaillé</DF>
+                                <ORIGINE>scolomfr-voc-022</ORIGINE>
+                            </TERME>
+                        </TS>
+                        <TS>
+                            <TERME>
+                                <INTITULE>terminale STL</INTITULE>
+                                <ID>scolomfr-voc-022-num-048</ID>
+                                <DF>Niveau détaillé</DF>
+                                <ORIGINE>scolomfr-voc-022</ORIGINE>
+                            </TERME>
+                        </TS>
+                        <TS>
+                            <TERME>
+                                <INTITULE>terminale STMG</INTITULE>
+                                <ID>scolomfr-voc-022-num-083</ID>
+                                <DF>Niveau détaillé</DF>
+                                <ORIGINE>scolomfr-voc-022</ORIGINE>
+                            </TERME>
+                        </TS>
+                        <TS>
+                            <TERME>
+                                <INTITULE>terminale techno hôtellerie</INTITULE>
+                                <ID>scolomfr-voc-022-num-049</ID>
+                                <DF>Niveau détaillé</DF>
+                                <ORIGINE>scolomfr-voc-022</ORIGINE>
+                            </TERME>
+                        </TS>
+                    </TERME>
+                </TS>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>voie professionnelle</INTITULE>
+                <ID>scolomfr-voc-022-num-065</ID>
+                <DF>Niveau détaillé</DF>
+                <ORIGINE>scolomfr-voc-022</ORIGINE>
+                <TERME_TE>
+                    <INTITULE>lycée professionnel</INTITULE>
+                    <ID>scolomfr-voc-022-num-087</ID>
+                    <ORIGINE>scolomfr-voc-022</ORIGINE>
+                </TERME_TE>
+                <TS>
+                    <TERME>
+                        <INTITULE>1ère professionnelle</INTITULE>
+                        <ID>scolomfr-voc-022-num-038</ID>
+                        <DF>Niveau détaillé</DF>
+                        <ORIGINE>scolomfr-voc-022</ORIGINE>
+                        <TERME_TE>
+                            <INTITULE>1ère</INTITULE>
+                            <ID>scolomfr-voc-022-num-028</ID>
+                            <ORIGINE>scolomfr-voc-022</ORIGINE>
+                        </TERME_TE>
+                        <TS>
+                            <TERME>
+                                <INTITULE>1ère pro domaine de la production</INTITULE>
+                                <ID>scolomfr-voc-022-num-092</ID>
+                                <DF>Niveau détaillé</DF>
+                                <ORIGINE>scolomfr-voc-022</ORIGINE>
+                            </TERME>
+                        </TS>
+                        <TS>
+                            <TERME>
+                                <INTITULE>1ère pro domaine des services</INTITULE>
+                                <ID>scolomfr-voc-022-num-093</ID>
+                                <DF>Niveau détaillé</DF>
+                                <ORIGINE>scolomfr-voc-022</ORIGINE>
+                            </TERME>
+                        </TS>
+                    </TERME>
+                </TS>
+                <TS>
+                    <TERME>
+                        <INTITULE>2de professionnelle</INTITULE>
+                        <ID>scolomfr-voc-022-num-027</ID>
+                        <DF>Niveau détaillé</DF>
+                        <ORIGINE>scolomfr-voc-022</ORIGINE>
+                        <TERME_TE>
+                            <INTITULE>2de</INTITULE>
+                            <ID>scolomfr-voc-022-num-025</ID>
+                            <ORIGINE>scolomfr-voc-022</ORIGINE>
+                        </TERME_TE>
+                    </TERME>
+                </TS>
+                <TS>
+                    <TERME>
+                        <INTITULE>terminale professionnelle</INTITULE>
+                        <ID>scolomfr-voc-022-num-050</ID>
+                        <DF>Niveau détaillé</DF>
+                        <ORIGINE>scolomfr-voc-022</ORIGINE>
+                        <TERME_TE>
+                            <INTITULE>terminale</INTITULE>
+                            <ID>scolomfr-voc-022-num-039</ID>
+                            <ORIGINE>scolomfr-voc-022</ORIGINE>
+                        </TERME_TE>
+                        <TS>
+                            <TERME>
+                                <INTITULE>terminale pro domaine de la production</INTITULE>
+                                <ID>scolomfr-voc-022-num-089</ID>
+                                <DF>Niveau détaillé</DF>
+                                <ORIGINE>scolomfr-voc-022</ORIGINE>
+                            </TERME>
+                        </TS>
+                        <TS>
+                            <TERME>
+                                <INTITULE>terminale pro domaine des services</INTITULE>
+                                <ID>scolomfr-voc-022-num-090</ID>
+                                <DF>Niveau détaillé</DF>
+                                <ORIGINE>scolomfr-voc-022</ORIGINE>
+                            </TERME>
+                        </TS>
+                    </TERME>
+                </TS>
+            </TERME>
+        </TS>
+    </TERME>
+</NOMENCLATURE>

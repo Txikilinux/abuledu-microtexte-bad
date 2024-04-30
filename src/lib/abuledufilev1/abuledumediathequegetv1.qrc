@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/abuledumediathequegetv1">
+        <file alias="vide">icones/abuledumediathequegetv1/etoile_vide.png</file>
+        <file alias="plein">icones/abuledumediathequegetv1/etoile_pleine.png</file>
+        <file alias="vue-icones">icones/abuledumediathequegetv1/qtfm-icons.png</file>
+        <file alias="vue-liste">icones/abuledumediathequegetv1/qtfm-details.png</file>
+        <file alias="supprimer">icones/abuledumediathequegetv1/emblem-unreadable.png</file>
+    </qresource>
+</RCC>

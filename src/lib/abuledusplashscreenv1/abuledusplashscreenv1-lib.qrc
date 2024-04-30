@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/abuledusplashscreenv1-lib">
+        <file alias="tampon-beta">images/tampon-beta.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/abuledumediathequepushv1">
+        <file alias="AbulEduMediathequeSupprimer">icones/abuledumediathequegetv1/emblem-unreadable.png</file>
+        <file alias="AbulEduMediathequeLectureSeule">icones/abuledumediathequegetv1/emblem-readonly.png</file>
+        <file alias="AbulEduMediathequeFlecheG">icones/abuledumediathequepushv1/flecheG.png</file>
+        <file alias="AbulEduMediathequeFlecheD">icones/abuledumediathequepushv1/flecheD.png</file>
+        <file alias="AbulEduMediathequeQuit">icones/abuledumediathequepushv1/quitter.png</file>
+    </qresource>
+    <qresource prefix="/xml">
+        <file alias="niveau éducatif détaillé">data/scolomfr-voc-022_XML.xml</file>
+        <file alias="objectif">data/scolomfr-voc-028_XML.xml</file>
+        <file alias="public cible détaillé">data/scolomfr-voc-021_XML.xml</file>
+        <file alias="domaine d'enseignement">data/scolomfr-voc-015_XML.xml</file>
+        <file alias="compétence">data/scolomfr-voc-016_XML.xml</file>
+        <file alias="cadre pédagogique">data/scolomfr-voc-040_XML.xml</file>
+    </qresource>
+</RCC>

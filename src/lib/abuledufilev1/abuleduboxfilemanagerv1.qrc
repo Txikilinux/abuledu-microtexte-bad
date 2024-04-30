@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/abuleduboxfilemanagerv1">
+        <file alias="loupe">icones/loupe.png</file>
+        <file alias="affichageCompletHover">icones/abuleduboxfilemanagerv1/affComplet-hover.png</file>
+        <file alias="affichageCompletPressed">icones/abuleduboxfilemanagerv1/affComplet-pressed.png</file>
+        <file alias="affichageCompletDisabled">icones/abuleduboxfilemanagerv1/affComplet-gris.png</file>
+        <file alias="affichageComplet">icones/abuleduboxfilemanagerv1/affComplet.png</file>
+        <file alias="affichageSimpleHover">icones/abuleduboxfilemanagerv1/affSimple-hover.png</file>
+        <file alias="affichageSimplePressed">icones/abuleduboxfilemanagerv1/affSimple-pressed.png</file>
+        <file alias="affichageSimpleDisabled">icones/abuleduboxfilemanagerv1/affSimple-gris.png</file>
+        <file alias="affichageSimple">icones/abuleduboxfilemanagerv1/affSimple.png</file>
+        <file alias="supprimerHover">icones/abuleduboxfilemanagerv1/suppr-hover.png</file>
+        <file alias="supprimerPressed">icones/abuleduboxfilemanagerv1/suppr-pressed.png</file>
+        <file alias="supprimerDisabled">icones/abuleduboxfilemanagerv1/suppr-gris.png</file>
+        <file alias="supprimer">icones/abuleduboxfilemanagerv1/suppr.png</file>
+        <file alias="quitterHover">icones/abuleduboxfilemanagerv1/quit-hover.png</file>
+        <file alias="quitterPressed">icones/abuleduboxfilemanagerv1/quit-pressed.png</file>
+        <file alias="quitterDisabled">icones/abuleduboxfilemanagerv1/quit-gris.png</file>
+        <file alias="quitter">icones/abuleduboxfilemanagerv1/quit.png</file>
+        <file alias="ouvrirHover">icones/abuleduboxfilemanagerv1/ouvrir-hover.png</file>
+        <file alias="ouvrirPressed">icones/abuleduboxfilemanagerv1/ouvrir-pressed.png</file>
+        <file alias="ouvrirDisabled">icones/abuleduboxfilemanagerv1/ouvrir-gris.png</file>
+        <file alias="ouvrir">icones/abuleduboxfilemanagerv1/ouvrir.png</file>
+        <file alias="boxesHover">icones/abuleduboxfilemanagerv1/boxes-hover.png</file>
+        <file alias="boxesPressed">icones/abuleduboxfilemanagerv1/boxes-pressed.png</file>
+        <file alias="boxesDisabled">icones/abuleduboxfilemanagerv1/boxes-gris.png</file>
+        <file alias="boxes">icones/abuleduboxfilemanagerv1/boxes.png</file>
+        <file alias="boxHover">icones/abuleduboxfilemanagerv1/box-hover.png</file>
+        <file alias="boxPressed">icones/abuleduboxfilemanagerv1/box-pressed.png</file>
+        <file alias="boxDisabled">icones/abuleduboxfilemanagerv1/box-gris.png</file>
+        <file alias="box">icones/abuleduboxfilemanagerv1/box.png</file>
+        <file alias="disqueDurHover">icones/abuleduboxfilemanagerv1/DiskDur-hover.png</file>
+        <file alias="disqueDurPressed">icones/abuleduboxfilemanagerv1/DiskDur-pressed.png</file>
+        <file alias="disqueDurDisabled">icones/abuleduboxfilemanagerv1/DiskDur-gris.png</file>
+        <file alias="disqueDur">icones/abuleduboxfilemanagerv1/DiskDur.png</file>
+        <file alias="mediathequeHover">icones/abuleduboxfilemanagerv1/mediatheque-hover.png</file>
+        <file alias="mediathequePressed">icones/abuleduboxfilemanagerv1/mediatheque-pressed.png</file>
+        <file alias="mediathequeDisabled">icones/abuleduboxfilemanagerv1/mediatheque-gris.png</file>
+        <file alias="mediatheque">icones/abuleduboxfilemanagerv1/mediatheque.png</file>
+        <file alias="goHover">icones/abuleduboxfilemanagerv1/fleche-hover.png</file>
+        <file alias="goPressed">icones/abuleduboxfilemanagerv1/fleche-pressed.png</file>
+        <file alias="goDisabled">icones/abuleduboxfilemanagerv1/fleche-gris.png</file>
+        <file alias="go">icones/abuleduboxfilemanagerv1/fleche.png</file>
+    </qresource>
+</RCC>

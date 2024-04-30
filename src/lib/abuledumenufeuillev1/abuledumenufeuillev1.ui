@@ -1,0 +1,1894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>AbulEduMenuFeuilleV1</class>
+ <widget class="QFrame" name="AbulEduMenuFeuilleV1">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1477</width>
+    <height>398</height>
+   </rect>
+  </property>
+  <property name="sizePolicy">
+   <sizepolicy hsizetype="MinimumExpanding" vsizetype="Preferred">
+    <horstretch>0</horstretch>
+    <verstretch>0</verstretch>
+   </sizepolicy>
+  </property>
+  <property name="windowTitle">
+   <string>Frame</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color:#2190f5</string>
+  </property>
+  <property name="frameShape">
+   <enum>QFrame::NoFrame</enum>
+  </property>
+  <property name="frameShadow">
+   <enum>QFrame::Raised</enum>
+  </property>
+  <property name="lineWidth">
+   <number>0</number>
+  </property>
+  <layout class="QGridLayout" name="gridLayout">
+   <property name="leftMargin">
+    <number>0</number>
+   </property>
+   <property name="topMargin">
+    <number>0</number>
+   </property>
+   <property name="rightMargin">
+    <number>0</number>
+   </property>
+   <property name="bottomMargin">
+    <number>0</number>
+   </property>
+   <property name="spacing">
+    <number>0</number>
+   </property>
+   <item row="1" column="2">
+    <widget class="QFrame" name="abeMenuFeuilleV1frmChoixLangues">
+     <property name="styleSheet">
+      <string notr="true">background-color: #ffffff;
+border-radius:5px;</string>
+     </property>
+     <property name="frameShape">
+      <enum>QFrame::NoFrame</enum>
+     </property>
+     <property name="frameShadow">
+      <enum>QFrame::Raised</enum>
+     </property>
+     <property name="lineWidth">
+      <number>0</number>
+     </property>
+     <layout class="QGridLayout" name="gridLayout_8">
+      <property name="leftMargin">
+       <number>0</number>
+      </property>
+      <property name="topMargin">
+       <number>0</number>
+      </property>
+      <property name="rightMargin">
+       <number>0</number>
+      </property>
+      <property name="bottomMargin">
+       <number>0</number>
+      </property>
+      <property name="horizontalSpacing">
+       <number>0</number>
+      </property>
+      <property name="verticalSpacing">
+       <number>6</number>
+      </property>
+      <item row="13" column="0">
+       <widget class="AbulEduFlatBoutonV1" name="abeMenuFeuilleBtnLangueAnnuler">
+        <property name="minimumSize">
+         <size>
+          <width>100</width>
+          <height>30</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>100</width>
+          <height>30</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>Andika Basic</family>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="whatsThis">
+         <string notr="true"/>
+        </property>
+        <property name="accessibleDescription">
+         <string notr="true"/>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">color:gray;</string>
+        </property>
+        <property name="text">
+         <string>Annuler</string>
+        </property>
+       </widget>
+      </item>
+      <item row="8" column="0">
+       <widget class="AbulEduFlatBoutonV1" name="abeMenuFeuilleBtnOc">
+        <property name="minimumSize">
+         <size>
+          <width>100</width>
+          <height>30</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>100</width>
+          <height>30</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>Andika Basic</family>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="whatsThis">
+         <string notr="true">oc_leng</string>
+        </property>
+        <property name="accessibleDescription">
+         <string notr="true"/>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">color:orange</string>
+        </property>
+        <property name="text">
+         <string>Oc</string>
+        </property>
+       </widget>
+      </item>
+      <item row="6" column="0">
+       <widget class="AbulEduFlatBoutonV1" name="abeMenuFeuilleBtnDe">
+        <property name="minimumSize">
+         <size>
+          <width>100</width>
+          <height>30</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>100</width>
+          <height>30</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>Andika Basic</family>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="whatsThis">
+         <string notr="true">de</string>
+        </property>
+        <property name="accessibleDescription">
+         <string notr="true"/>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">color:black</string>
+        </property>
+        <property name="text">
+         <string>Deutsch</string>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="0">
+       <widget class="AbulEduFlatBoutonV1" name="abeMenuFeuilleBtnFr">
+        <property name="minimumSize">
+         <size>
+          <width>100</width>
+          <height>30</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>100</width>
+          <height>30</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>Andika Basic</family>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="whatsThis">
+         <string notr="true">fr</string>
+        </property>
+        <property name="accessibleDescription">
+         <string notr="true"/>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">color: blue;</string>
+        </property>
+        <property name="text">
+         <string>Français</string>
+        </property>
+       </widget>
+      </item>
+      <item row="3" column="0">
+       <widget class="AbulEduFlatBoutonV1" name="abeMenuFeuilleBtnEn">
+        <property name="minimumSize">
+         <size>
+          <width>100</width>
+          <height>30</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>100</width>
+          <height>30</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>Andika Basic</family>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="whatsThis">
+         <string notr="true">en</string>
+        </property>
+        <property name="accessibleDescription">
+         <string notr="true"/>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">color:red</string>
+        </property>
+        <property name="text">
+         <string>English</string>
+        </property>
+       </widget>
+      </item>
+      <item row="5" column="0">
+       <widget class="AbulEduFlatBoutonV1" name="abeMenuFeuilleBtnIt">
+        <property name="minimumSize">
+         <size>
+          <width>100</width>
+          <height>30</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>100</width>
+          <height>30</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>Andika Basic</family>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="whatsThis">
+         <string notr="true">it</string>
+        </property>
+        <property name="accessibleDescription">
+         <string notr="true"/>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">color:green</string>
+        </property>
+        <property name="text">
+         <string>Italiano</string>
+        </property>
+       </widget>
+      </item>
+      <item row="4" column="0">
+       <widget class="AbulEduFlatBoutonV1" name="abeMenuFeuilleBtnEs">
+        <property name="minimumSize">
+         <size>
+          <width>100</width>
+          <height>30</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>100</width>
+          <height>30</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>Andika Basic</family>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="whatsThis">
+         <string notr="true">es</string>
+        </property>
+        <property name="accessibleDescription">
+         <string notr="true"/>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">color:#e8e226;</string>
+        </property>
+        <property name="text">
+         <string>Español</string>
+        </property>
+       </widget>
+      </item>
+      <item row="7" column="0">
+       <widget class="AbulEduFlatBoutonV1" name="abeMenuFeuilleBtnNl">
+        <property name="minimumSize">
+         <size>
+          <width>100</width>
+          <height>30</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>100</width>
+          <height>30</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>Andika Basic</family>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="whatsThis">
+         <string notr="true">nl</string>
+        </property>
+        <property name="accessibleDescription">
+         <string notr="true"/>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">color:#dd4900</string>
+        </property>
+        <property name="text">
+         <string>Nederlander</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </item>
+   <item row="0" column="0" colspan="3">
+    <widget class="QFrame" name="abeMenuFeuillePrincipale">
+     <property name="minimumSize">
+      <size>
+       <width>0</width>
+       <height>40</height>
+      </size>
+     </property>
+     <property name="maximumSize">
+      <size>
+       <width>16777215</width>
+       <height>40</height>
+      </size>
+     </property>
+     <property name="frameShape">
+      <enum>QFrame::NoFrame</enum>
+     </property>
+     <property name="frameShadow">
+      <enum>QFrame::Raised</enum>
+     </property>
+     <property name="lineWidth">
+      <number>0</number>
+     </property>
+     <layout class="QHBoxLayout" name="horizontalLayout_2">
+      <property name="spacing">
+       <number>0</number>
+      </property>
+      <property name="leftMargin">
+       <number>0</number>
+      </property>
+      <property name="topMargin">
+       <number>0</number>
+      </property>
+      <property name="rightMargin">
+       <number>0</number>
+      </property>
+      <property name="bottomMargin">
+       <number>0</number>
+      </property>
+      <item>
+       <widget class="QFrame" name="abeMenuFeuilleGapFrame">
+        <property name="frameShape">
+         <enum>QFrame::NoFrame</enum>
+        </property>
+        <property name="frameShadow">
+         <enum>QFrame::Raised</enum>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="AbulEduFlatBoutonV1" name="abeMenuFeuilleBtnFeuille">
+        <property name="minimumSize">
+         <size>
+          <width>40</width>
+          <height>40</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>40</width>
+          <height>40</height>
+         </size>
+        </property>
+        <property name="whatsThis">
+         <string notr="true"/>
+        </property>
+        <property name="accessibleDescription">
+         <string notr="true"/>
+        </property>
+        <property name="iconSize">
+         <size>
+          <width>40</width>
+          <height>40</height>
+         </size>
+        </property>
+        <property name="flat">
+         <bool>true</bool>
+        </property>
+        <property name="CouleurFondNormale" stdset="0">
+         <color>
+          <red>33</red>
+          <green>144</green>
+          <blue>245</blue>
+         </color>
+        </property>
+        <property name="CouleurFondSurvol" stdset="0">
+         <color>
+          <red>53</red>
+          <green>166</green>
+          <blue>247</blue>
+         </color>
+        </property>
+        <property name="CouleurFondPressed" stdset="0">
+         <color>
+          <red>53</red>
+          <green>166</green>
+          <blue>247</blue>
+         </color>
+        </property>
+        <property name="IconeNormale" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/leaf</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="abeMenuFeuilleLblTitre">
+        <property name="cursor">
+         <cursorShape>ArrowCursor</cursorShape>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QLabel {
+padding-left:20px;
+background-color:#2190f5;
+color:white;
+font-size:24px;
+
+}</string>
+        </property>
+        <property name="text">
+         <string>AbulÉdu - Nom automatique de l'application</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="AbulEduFlatBoutonV1" name="abeMenuFeuilleBtnAvatar">
+        <property name="enabled">
+         <bool>true</bool>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>48</width>
+          <height>40</height>
+         </size>
+        </property>
+        <property name="whatsThis">
+         <string notr="true">Language</string>
+        </property>
+        <property name="accessibleDescription">
+         <string notr="true"/>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+        <property name="icon">
+         <iconset resource="abuledumenufeuillev1.qrc">
+          <normaloff>:/abuledumenufeuillev1/mystery</normaloff>:/abuledumenufeuillev1/mystery</iconset>
+        </property>
+        <property name="iconSize">
+         <size>
+          <width>36</width>
+          <height>36</height>
+         </size>
+        </property>
+        <property name="CouleurTexteNormale" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="CouleurTexteSurvol" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="CouleurTextePressed" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="CouleurFondPressed" stdset="0">
+         <color alpha="50">
+          <red>6</red>
+          <green>109</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="IconeNormale" stdset="0">
+         <string notr="true"/>
+        </property>
+        <property name="IconeSurvol" stdset="0">
+         <string notr="true"/>
+        </property>
+        <property name="MarginTop" stdset="0">
+         <number>4</number>
+        </property>
+        <property name="MarginBottom" stdset="0">
+         <number>4</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="AbulEduFlatBoutonV1" name="abeMenuFeuilleBtnLanguage">
+        <property name="maximumSize">
+         <size>
+          <width>48</width>
+          <height>40</height>
+         </size>
+        </property>
+        <property name="whatsThis">
+         <string notr="true">Language</string>
+        </property>
+        <property name="accessibleDescription">
+         <string notr="true"/>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+        <property name="CouleurTexteNormale" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="CouleurTexteSurvol" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="CouleurTextePressed" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="CouleurFondPressed" stdset="0">
+         <color alpha="50">
+          <red>6</red>
+          <green>109</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="IconeNormale" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/fr</string>
+        </property>
+        <property name="IconeSurvol" stdset="0">
+         <string notr="true"/>
+        </property>
+        <property name="MarginTop" stdset="0">
+         <number>4</number>
+        </property>
+        <property name="MarginBottom" stdset="0">
+         <number>4</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <spacer name="abeMenuFeuilleBorizontalSpacer">
+        <property name="orientation">
+         <enum>Qt::Horizontal</enum>
+        </property>
+        <property name="sizeType">
+         <enum>QSizePolicy::Fixed</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
+         <size>
+          <width>25</width>
+          <height>37</height>
+         </size>
+        </property>
+       </spacer>
+      </item>
+      <item>
+       <widget class="AbulEduFlatBoutonV1" name="abeMenuFeuilleBtnMinimized">
+        <property name="minimumSize">
+         <size>
+          <width>40</width>
+          <height>40</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>40</width>
+          <height>40</height>
+         </size>
+        </property>
+        <property name="toolTip">
+         <string/>
+        </property>
+        <property name="whatsThis">
+         <string notr="true">Minimized</string>
+        </property>
+        <property name="accessibleDescription">
+         <string notr="true"/>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+        <property name="iconSize">
+         <size>
+          <width>40</width>
+          <height>40</height>
+         </size>
+        </property>
+        <property name="CouleurTexteNormale" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="CouleurTexteSurvol" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="CouleurTextePressed" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="CouleurFondPressed" stdset="0">
+         <color alpha="50">
+          <red>6</red>
+          <green>109</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="IconeNormale" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/showMinimized</string>
+        </property>
+        <property name="IconeSurvol" stdset="0">
+         <string notr="true"/>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="AbulEduFlatBoutonV1" name="abeMenuFeuilleBtnFullScreen">
+        <property name="minimumSize">
+         <size>
+          <width>40</width>
+          <height>40</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>40</width>
+          <height>40</height>
+         </size>
+        </property>
+        <property name="toolTip">
+         <string/>
+        </property>
+        <property name="whatsThis">
+         <string notr="true">FullScreen</string>
+        </property>
+        <property name="accessibleDescription">
+         <string notr="true"/>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+        <property name="iconSize">
+         <size>
+          <width>40</width>
+          <height>40</height>
+         </size>
+        </property>
+        <property name="CouleurTexteNormale" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="CouleurTexteSurvol" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="CouleurTextePressed" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="CouleurFondPressed" stdset="0">
+         <color alpha="50">
+          <red>6</red>
+          <green>109</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="IconeNormale" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/showMaximized</string>
+        </property>
+        <property name="IconeSurvol" stdset="0">
+         <string notr="true"/>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </item>
+   <item row="1" column="0">
+    <widget class="QFrame" name="abeMenuFeuilleV1frmButtons">
+     <property name="sizePolicy">
+      <sizepolicy hsizetype="Minimum" vsizetype="Preferred">
+       <horstretch>0</horstretch>
+       <verstretch>0</verstretch>
+      </sizepolicy>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">background-color:#35A6F7;
+border-top-left-radius: 0px;
+border-top-right-radius: 10px;
+border-bottom-right-radius: 10px;
+border-bottom-left-radius: 10px;</string>
+     </property>
+     <property name="frameShape">
+      <enum>QFrame::NoFrame</enum>
+     </property>
+     <property name="frameShadow">
+      <enum>QFrame::Raised</enum>
+     </property>
+     <property name="lineWidth">
+      <number>0</number>
+     </property>
+     <layout class="QHBoxLayout" name="horizontalLayout">
+      <property name="spacing">
+       <number>6</number>
+      </property>
+      <property name="leftMargin">
+       <number>9</number>
+      </property>
+      <property name="topMargin">
+       <number>9</number>
+      </property>
+      <property name="rightMargin">
+       <number>9</number>
+      </property>
+      <property name="bottomMargin">
+       <number>9</number>
+      </property>
+      <item>
+       <widget class="AbulEduFlatBoutonV1" name="abeMenuFeuilleBtnNew">
+        <property name="minimumSize">
+         <size>
+          <width>64</width>
+          <height>92</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>120</width>
+          <height>92</height>
+         </size>
+        </property>
+        <property name="toolTip">
+         <string/>
+        </property>
+        <property name="whatsThis">
+         <string notr="true">new</string>
+        </property>
+        <property name="accessibleDescription">
+         <string notr="true"/>
+        </property>
+        <property name="text">
+         <string>&amp;Nouveau</string>
+        </property>
+        <property name="CouleurTexteNormale" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="CouleurTexteSurvol" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="CouleurTextePressed" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="TexteAlignement">
+         <set>Qt::AlignBottom</set>
+        </property>
+        <property name="BackgroundAlignement" stdset="0">
+         <string notr="true">center top</string>
+        </property>
+        <property name="CouleurFondPressed" stdset="0">
+         <color alpha="50">
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="IconeNormale" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/new</string>
+        </property>
+        <property name="IconeSurvol" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/newHover</string>
+        </property>
+        <property name="IconePressed" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/newPressed</string>
+        </property>
+        <property name="IconeDisabled" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/newDisabled</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="AbulEduFlatBoutonV1" name="abeMenuFeuilleBtnOpen">
+        <property name="minimumSize">
+         <size>
+          <width>92</width>
+          <height>92</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>120</width>
+          <height>92</height>
+         </size>
+        </property>
+        <property name="toolTip">
+         <string/>
+        </property>
+        <property name="whatsThis">
+         <string notr="true">open</string>
+        </property>
+        <property name="accessibleDescription">
+         <string notr="true"/>
+        </property>
+        <property name="text">
+         <string>&amp;Ouverture</string>
+        </property>
+        <property name="CouleurTexteNormale" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="CouleurTexteSurvol" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="CouleurTextePressed" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="TexteAlignement">
+         <set>Qt::AlignBottom</set>
+        </property>
+        <property name="BackgroundAlignement" stdset="0">
+         <string notr="true">center top</string>
+        </property>
+        <property name="CouleurFondPressed" stdset="0">
+         <color alpha="50">
+          <red>53</red>
+          <green>166</green>
+          <blue>147</blue>
+         </color>
+        </property>
+        <property name="IconeNormale" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/open</string>
+        </property>
+        <property name="IconeSurvol" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/openHover</string>
+        </property>
+        <property name="IconePressed" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/openPressed</string>
+        </property>
+        <property name="IconeDisabled" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/openDisabled</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="AbulEduFlatBoutonV1" name="abeMenuFeuilleBtnSave">
+        <property name="minimumSize">
+         <size>
+          <width>92</width>
+          <height>92</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>120</width>
+          <height>92</height>
+         </size>
+        </property>
+        <property name="toolTip">
+         <string/>
+        </property>
+        <property name="whatsThis">
+         <string notr="true">save</string>
+        </property>
+        <property name="accessibleDescription">
+         <string notr="true"/>
+        </property>
+        <property name="text">
+         <string>&amp;Sauvegarde</string>
+        </property>
+        <property name="CouleurTexteNormale" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="CouleurTexteSurvol" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="CouleurTextePressed" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="TexteAlignement">
+         <set>Qt::AlignBottom</set>
+        </property>
+        <property name="BackgroundAlignement" stdset="0">
+         <string notr="true">center top</string>
+        </property>
+        <property name="CouleurFondPressed" stdset="0">
+         <color alpha="50">
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="IconeNormale" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/save</string>
+        </property>
+        <property name="IconeSurvol" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/saveHover</string>
+        </property>
+        <property name="IconePressed" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/savePressed</string>
+        </property>
+        <property name="IconeDisabled" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/saveDisabled</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="AbulEduFlatBoutonV1" name="abeMenuFeuilleBtnPublish">
+        <property name="minimumSize">
+         <size>
+          <width>92</width>
+          <height>92</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>120</width>
+          <height>92</height>
+         </size>
+        </property>
+        <property name="toolTip">
+         <string/>
+        </property>
+        <property name="whatsThis">
+         <string notr="true">open</string>
+        </property>
+        <property name="accessibleDescription">
+         <string notr="true"/>
+        </property>
+        <property name="text">
+         <string>P&amp;ublication</string>
+        </property>
+        <property name="CouleurTexteNormale" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="CouleurTexteSurvol" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="CouleurTextePressed" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="TexteAlignement">
+         <set>Qt::AlignBottom</set>
+        </property>
+        <property name="BackgroundAlignement" stdset="0">
+         <string notr="true">center top</string>
+        </property>
+        <property name="CouleurFondPressed" stdset="0">
+         <color alpha="50">
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="IconeNormale" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/publish</string>
+        </property>
+        <property name="IconeSurvol" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/publishHover</string>
+        </property>
+        <property name="IconePressed" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/publishPressed</string>
+        </property>
+        <property name="IconeDisabled" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/publishDisabled</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="AbulEduFlatBoutonV1" name="abeMenuFeuilleBtnImport">
+        <property name="minimumSize">
+         <size>
+          <width>92</width>
+          <height>92</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>120</width>
+          <height>92</height>
+         </size>
+        </property>
+        <property name="toolTip">
+         <string/>
+        </property>
+        <property name="whatsThis">
+         <string notr="true">open</string>
+        </property>
+        <property name="accessibleDescription">
+         <string notr="true"/>
+        </property>
+        <property name="text">
+         <string>&amp;Import</string>
+        </property>
+        <property name="CouleurTexteNormale" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="CouleurTexteSurvol" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="CouleurTextePressed" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="TexteAlignement">
+         <set>Qt::AlignBottom</set>
+        </property>
+        <property name="BackgroundAlignement" stdset="0">
+         <string notr="true">center top</string>
+        </property>
+        <property name="CouleurFondPressed" stdset="0">
+         <color alpha="50">
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="IconeNormale" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/import</string>
+        </property>
+        <property name="IconeSurvol" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/importHover</string>
+        </property>
+        <property name="IconePressed" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/importPressed</string>
+        </property>
+        <property name="IconeDisabled" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/importDisabled</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="AbulEduFlatBoutonV1" name="abeMenuFeuilleBtnExport">
+        <property name="minimumSize">
+         <size>
+          <width>92</width>
+          <height>92</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>120</width>
+          <height>92</height>
+         </size>
+        </property>
+        <property name="toolTip">
+         <string/>
+        </property>
+        <property name="whatsThis">
+         <string notr="true">open</string>
+        </property>
+        <property name="accessibleDescription">
+         <string notr="true"/>
+        </property>
+        <property name="text">
+         <string>&amp;Export</string>
+        </property>
+        <property name="CouleurTexteNormale" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="CouleurTexteSurvol" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="CouleurTextePressed" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="TexteAlignement">
+         <set>Qt::AlignBottom</set>
+        </property>
+        <property name="BackgroundAlignement" stdset="0">
+         <string notr="true">center top</string>
+        </property>
+        <property name="CouleurFondPressed" stdset="0">
+         <color alpha="50">
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="IconeNormale" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/export</string>
+        </property>
+        <property name="IconeSurvol" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/exportHover</string>
+        </property>
+        <property name="IconePressed" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/exportPressed</string>
+        </property>
+        <property name="IconeDisabled" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/exportDisabled</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="AbulEduFlatBoutonV1" name="abeMenuFeuilleBtnPrint">
+        <property name="minimumSize">
+         <size>
+          <width>92</width>
+          <height>92</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>120</width>
+          <height>92</height>
+         </size>
+        </property>
+        <property name="toolTip">
+         <string/>
+        </property>
+        <property name="whatsThis">
+         <string notr="true">open</string>
+        </property>
+        <property name="accessibleDescription">
+         <string notr="true"/>
+        </property>
+        <property name="text">
+         <string>I&amp;mpression</string>
+        </property>
+        <property name="CouleurTexteNormale" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="CouleurTexteSurvol" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="CouleurTextePressed" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="TexteAlignement">
+         <set>Qt::AlignBottom</set>
+        </property>
+        <property name="BackgroundAlignement" stdset="0">
+         <string notr="true">center top</string>
+        </property>
+        <property name="CouleurFondPressed" stdset="0">
+         <color alpha="50">
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="IconeNormale" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/print</string>
+        </property>
+        <property name="IconeSurvol" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/printHover</string>
+        </property>
+        <property name="IconePressed" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/printPressed</string>
+        </property>
+        <property name="IconeDisabled" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/printDisabled</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="AbulEduFlatBoutonV1" name="abeMenuFeuilleBtnSettings">
+        <property name="minimumSize">
+         <size>
+          <width>92</width>
+          <height>92</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>120</width>
+          <height>92</height>
+         </size>
+        </property>
+        <property name="toolTip">
+         <string/>
+        </property>
+        <property name="whatsThis">
+         <string notr="true">open</string>
+        </property>
+        <property name="accessibleDescription">
+         <string notr="true"/>
+        </property>
+        <property name="text">
+         <string>&amp;Paramètres</string>
+        </property>
+        <property name="CouleurTexteNormale" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="CouleurTexteSurvol" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="CouleurTextePressed" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="TexteAlignement">
+         <set>Qt::AlignBottom</set>
+        </property>
+        <property name="BackgroundAlignement" stdset="0">
+         <string notr="true">center top</string>
+        </property>
+        <property name="CouleurFondPressed" stdset="0">
+         <color alpha="50">
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="IconeNormale" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/settings</string>
+        </property>
+        <property name="IconeSurvol" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/settingsHover</string>
+        </property>
+        <property name="IconePressed" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/settingsPressed</string>
+        </property>
+        <property name="IconeDisabled" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/settingsDisabled</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="AbulEduFlatBoutonV1" name="abeMenuFeuilleBtnCustom1">
+        <property name="minimumSize">
+         <size>
+          <width>92</width>
+          <height>92</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>120</width>
+          <height>92</height>
+         </size>
+        </property>
+        <property name="toolTip">
+         <string/>
+        </property>
+        <property name="whatsThis">
+         <string notr="true">open</string>
+        </property>
+        <property name="accessibleDescription">
+         <string notr="true"/>
+        </property>
+        <property name="text">
+         <string>custom1</string>
+        </property>
+        <property name="CouleurTexteNormale" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="CouleurTexteSurvol" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="CouleurTextePressed" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="TexteAlignement">
+         <set>Qt::AlignBottom</set>
+        </property>
+        <property name="BackgroundAlignement" stdset="0">
+         <string notr="true">center top</string>
+        </property>
+        <property name="CouleurFondPressed" stdset="0">
+         <color alpha="50">
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="IconeNormale" stdset="0">
+         <string notr="true"/>
+        </property>
+        <property name="IconeSurvol" stdset="0">
+         <string notr="true"/>
+        </property>
+        <property name="IconePressed" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/custom1Pressed</string>
+        </property>
+        <property name="IconeDisabled" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/custom1Disabled</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="AbulEduFlatBoutonV1" name="abeMenuFeuilleBtnCustom2">
+        <property name="minimumSize">
+         <size>
+          <width>92</width>
+          <height>92</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>120</width>
+          <height>92</height>
+         </size>
+        </property>
+        <property name="toolTip">
+         <string/>
+        </property>
+        <property name="whatsThis">
+         <string notr="true">open</string>
+        </property>
+        <property name="accessibleDescription">
+         <string notr="true"/>
+        </property>
+        <property name="text">
+         <string>custom2</string>
+        </property>
+        <property name="CouleurTexteNormale" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="CouleurTexteSurvol" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="CouleurTextePressed" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="TexteAlignement">
+         <set>Qt::AlignBottom</set>
+        </property>
+        <property name="BackgroundAlignement" stdset="0">
+         <string notr="true">center top</string>
+        </property>
+        <property name="CouleurFondPressed" stdset="0">
+         <color alpha="50">
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="IconeNormale" stdset="0">
+         <string notr="true"/>
+        </property>
+        <property name="IconeSurvol" stdset="0">
+         <string notr="true"/>
+        </property>
+        <property name="IconePressed" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/custom2Pressed</string>
+        </property>
+        <property name="IconeDisabled" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/custom2Disabled</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="AbulEduFlatBoutonV1" name="abeMenuFeuilleBtnHelp">
+        <property name="minimumSize">
+         <size>
+          <width>92</width>
+          <height>92</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>120</width>
+          <height>92</height>
+         </size>
+        </property>
+        <property name="whatsThis">
+         <string notr="true">help</string>
+        </property>
+        <property name="accessibleDescription">
+         <string notr="true"/>
+        </property>
+        <property name="text">
+         <string>&amp;Aide</string>
+        </property>
+        <property name="CouleurTexteNormale" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="CouleurTexteSurvol" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="CouleurTextePressed" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="TexteAlignement">
+         <set>Qt::AlignBottom</set>
+        </property>
+        <property name="BackgroundAlignement" stdset="0">
+         <string notr="true">center top</string>
+        </property>
+        <property name="CouleurFondPressed" stdset="0">
+         <color alpha="50">
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="IconeNormale" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/help</string>
+        </property>
+        <property name="IconeSurvol" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/helpHover</string>
+        </property>
+        <property name="IconePressed" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/helpPressed</string>
+        </property>
+        <property name="IconeDisabled" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/helpDisabled</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="AbulEduFlatBoutonV1" name="abeMenuFeuilleBtnQuit">
+        <property name="minimumSize">
+         <size>
+          <width>92</width>
+          <height>92</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>120</width>
+          <height>92</height>
+         </size>
+        </property>
+        <property name="toolTip">
+         <string/>
+        </property>
+        <property name="whatsThis">
+         <string notr="true">quit</string>
+        </property>
+        <property name="accessibleDescription">
+         <string notr="true"/>
+        </property>
+        <property name="text">
+         <string>Sor&amp;tie</string>
+        </property>
+        <property name="CouleurTexteNormale" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="CouleurTexteSurvol" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="CouleurTextePressed" stdset="0">
+         <color>
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="TexteAlignement">
+         <set>Qt::AlignBottom</set>
+        </property>
+        <property name="BackgroundAlignement" stdset="0">
+         <string notr="true">center top</string>
+        </property>
+        <property name="CouleurFondPressed" stdset="0">
+         <color alpha="50">
+          <red>255</red>
+          <green>255</green>
+          <blue>255</blue>
+         </color>
+        </property>
+        <property name="IconeNormale" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/quit</string>
+        </property>
+        <property name="IconeSurvol" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/quitHover</string>
+        </property>
+        <property name="IconePressed" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/quitPressed</string>
+        </property>
+        <property name="IconeDisabled" stdset="0">
+         <string notr="true">:/abuledumenufeuillev1/quitDisabled</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </item>
+   <item row="1" column="1">
+    <widget class="QFrame" name="abeMenuFeuilleV1frmUserMenu">
+     <property name="styleSheet">
+      <string notr="true">background-color: #ffffff;
+border-radius:5px;</string>
+     </property>
+     <property name="frameShape">
+      <enum>QFrame::NoFrame</enum>
+     </property>
+     <property name="frameShadow">
+      <enum>QFrame::Raised</enum>
+     </property>
+     <property name="lineWidth">
+      <number>0</number>
+     </property>
+     <layout class="QGridLayout" name="gridLayout_9" rowstretch="0,0,0,0,0,0,0,0,0,0" rowminimumheight="0,0,0,0,0,0,0,0,0,0">
+      <property name="sizeConstraint">
+       <enum>QLayout::SetDefaultConstraint</enum>
+      </property>
+      <property name="leftMargin">
+       <number>9</number>
+      </property>
+      <property name="topMargin">
+       <number>9</number>
+      </property>
+      <property name="rightMargin">
+       <number>9</number>
+      </property>
+      <property name="bottomMargin">
+       <number>9</number>
+      </property>
+      <property name="spacing">
+       <number>6</number>
+      </property>
+      <item row="3" column="0">
+       <widget class="AbulEduFlatBoutonV1" name="abeMenuFeuilleBtnLogout">
+        <property name="minimumSize">
+         <size>
+          <width>100</width>
+          <height>30</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>16777215</width>
+          <height>30</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>Andika Basic</family>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="whatsThis">
+         <string notr="true">en</string>
+        </property>
+        <property name="accessibleDescription">
+         <string notr="true"/>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">color:red</string>
+        </property>
+        <property name="text">
+         <string>Fermer la session</string>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="0">
+       <widget class="AbulEduFlatBoutonV1" name="abeMenuFeuilleBtnLogs">
+        <property name="minimumSize">
+         <size>
+          <width>100</width>
+          <height>30</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>16777215</width>
+          <height>30</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>Andika Basic</family>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="whatsThis">
+         <string notr="true">fr</string>
+        </property>
+        <property name="accessibleDescription">
+         <string notr="true"/>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">color: blue;</string>
+        </property>
+        <property name="text">
+         <string>Journal d'activités</string>
+        </property>
+       </widget>
+      </item>
+      <item row="9" column="0">
+       <widget class="AbulEduFlatBoutonV1" name="abeMenuFeuilleBtnUserAnnuler">
+        <property name="minimumSize">
+         <size>
+          <width>100</width>
+          <height>30</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>16777215</width>
+          <height>30</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>Andika Basic</family>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="whatsThis">
+         <string notr="true"/>
+        </property>
+        <property name="accessibleDescription">
+         <string notr="true"/>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">color:gray;</string>
+        </property>
+        <property name="text">
+         <string>Annuler</string>
+        </property>
+       </widget>
+      </item>
+      <item row="4" column="0">
+       <widget class="AbulEduFlatBoutonV1" name="abeMenuFeuilleBtnLogin">
+        <property name="minimumSize">
+         <size>
+          <width>100</width>
+          <height>30</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>16777215</width>
+          <height>30</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>Andika Basic</family>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="whatsThis">
+         <string notr="true">es</string>
+        </property>
+        <property name="accessibleDescription">
+         <string notr="true"/>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">color:#e8e226;</string>
+        </property>
+        <property name="text">
+         <string>Changer d'utilisateur</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>AbulEduFlatBoutonV1</class>
+   <extends>QPushButton</extends>
+   <header>abuleduflatboutonv1.h</header>
+  </customwidget>
+ </customwidgets>
+ <resources>
+  <include location="abuledumenufeuillev1.qrc"/>
+ </resources>
+ <connections/>
+</ui>

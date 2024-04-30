@@ -1,0 +1,62 @@
+<RCC>
+    <qresource prefix="/abuledutextev1">
+        <file alias="fermer-48">data/images/fermer-48.png</file>
+        <file alias="Ecolier">data/fonts/ECOLIER.ttf</file>
+        <file alias="Cursive">data/fonts/CURSIVESTANDARD.ttf</file>
+    </qresource>
+    <qresource prefix="/abuledutextev1/buttons">
+        <file alias="dataHover">data/images/data-over.png</file>
+        <file alias="data">data/images/data.png</file>
+        <file alias="newHover">data/images/nouveau-over.png</file>
+        <file alias="new">data/images/nouveau.png</file>
+        <file alias="printHover">data/images/imprimer-over.png</file>
+        <file alias="print">data/images/imprimer.png</file>
+        <file alias="openHover">data/images/ouvrir-over.png</file>
+        <file alias="open">data/images/ouvrir.png</file>
+        <file alias="saveHover">data/images/exporter-over.png</file>
+        <file alias="save">data/images/exporter.png</file>
+        <file alias="helpHover">data/images/aide-over.png</file>
+        <file alias="help">data/images/aide.png</file>
+        <file alias="quitHover">data/images/quit-over.png</file>
+        <file alias="quit">data/images/quit.png</file>
+        <file alias="leaf">data/images/feuille.png</file>
+        <file alias="play">data/images/play.png</file>
+        <file alias="pause">data/images/pause.png</file>
+        <file alias="stop">data/images/stop.png</file>
+        <file alias="stopDisabled">data/images/stop-gris.png</file>
+        <file alias="playDisabled">data/images/play-gris.png</file>
+        <file alias="pauseDisabled">data/images/pause-gris.png</file>
+        <file alias="showMinimized">data/images/fenetreReduit.png</file>
+        <file alias="showNormal">data/images/fenetreMoyen.png</file>
+        <file alias="showMaximized">data/images/fenetreGrand.png</file>
+        <file alias="stopHover">data/images/stop-hover.png</file>
+        <file alias="pauseHover">data/images/pause-hover.png</file>
+        <file alias="playHover">data/images/play-hover.png</file>
+        <file alias="capitaleHover">data/images/capitale-over.png</file>
+        <file alias="capitale">data/images/capitale.png</file>
+        <file alias="manuscritHover">data/images/manuscrit-over.png</file>
+        <file alias="manuscrit">data/images/manuscrit.png</file>
+        <file alias="miniHover">data/images/mini-over.png</file>
+        <file alias="mini">data/images/mini.png</file>
+        <file alias="increase">data/images/agrandir.png</file>
+        <file alias="increaseHover">data/images/agrandir-over.png</file>
+        <file alias="decreaseHover">data/images/reduire-over.png</file>
+        <file alias="decrease">data/images/reduire.png</file>
+    </qresource>
+    <qresource prefix="/abuledutextev1/format">
+        <file alias="italic">data/images/italik-appuy.png</file>
+        <file alias="underlined">data/images/soulign-appuy.png</file>
+        <file alias="bold">data/images/gras-appuy.png</file>
+        <file alias="right">data/images/align-droit-appuy.png</file>
+        <file alias="left">data/images/align-gauch-appuy.png</file>
+        <file alias="center">data/images/centrer-appuy.png</file>
+        <file alias="justify">data/images/justifier-appuy.png</file>
+        <file alias="decrease">data/images/reduire.png</file>
+        <file alias="increase">data/images/agrandir.png</file>
+        <file alias="fontCursive">data/images/plume.png</file>
+        <file>data/images/seyes.png</file>
+        <file alias="fontSeyes">data/images/seyes-appuy.png</file>
+        <file>data/images/andika.png</file>
+        <file alias="fontAndika">data/images/andika-appuy.png</file>
+    </qresource>
+</RCC>

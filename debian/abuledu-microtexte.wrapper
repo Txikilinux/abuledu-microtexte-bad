@@ -1,0 +1,13 @@
+#!/bin/bash
+# application launcher
+APPNAME=abuledu-microtexte
+EXENAME=abuledu-microtexte
+(
+    if [ -d /usr/share/${APPNAME} ]; then
+	cd /usr/share/${APPNAME}
+    fi
+    if [ -f /usr/lib/${APPNAME}/libQtCore.so.4 ]; then
+	export LD_LIBRARY_PATH=/usr/lib/${APPNAME}
+    fi
+    exec /usr/lib/${APPNAME}/${EXENAME} $@
+)

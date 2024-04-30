@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/abuledunetworkaccessmanagerv1">
+        <file alias="sslrapidssl-01">data/rapidssl.ca</file>
+        <file alias="sslgeotrust-01">data/GeoTrust_Global_CA.cer</file>
+        <file alias="ssladdtrust-01">data/AddTrustExternalCARoot.crt</file>
+        <file alias="sslpositive-01">data/PositiveSSLCA2.crt</file>
+    </qresource>
+</RCC>

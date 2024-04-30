@@ -1,0 +1,47 @@
+abuledu-microtexte (1.0.4~ryxeo42~revno264~jammy1~txiki3) jammy; urgency=low
+
+  * Some more deps fixed.
+
+ -- Elkartenet (makers of TxikiLinux) <info.elkartenet@gmail.com>  Mon, 30 Apr 2024 10:43:00 +0000
+
+abuledu-microtexte (1.0.4~ryxeo42~revno264~jammy1~txiki2) jammy; urgency=low
+
+  * Some deps fixed.
+
+ -- Elkartenet (makers of TxikiLinux) <info.elkartenet@gmail.com>  Mon, 29 Apr 2024 13:05:00 +0000
+
+abuledu-microtexte (1.0.4~ryxeo42~revno264~jammy1~txiki) jammy; urgency=low
+
+  * Now packaged for Jammy.
+
+ -- Elkartenet (makers of TxikiLinux) <info.elkartenet@gmail.com>  Mon, 29 Apr 2024 12:45:00 +0000
+
+abuledu-microtexte (1.0.4~ryxeo42~revno264~bionic1) bionic; urgency=medium
+
+  * jenkins-autobuild-42
+
+ -- jenkins AutoBuilder (jenkins-ubu-18) <jenkins.deb@abuledu.org>  Thu, 08 Aug 2019 22:38:44 +0000
+
+abuledu-microtexte (0.6.2~ryxeo2~precise1) precise; urgency=low
+
+  * new auto build from panda-01
+
+ -- ARM AutoBuild System <panda-autobuild-01@ryxeo.com>  Tue, 25 Jun 2013 14:57:19 +0200
+
+abuledu-microtexte (0.6.0~ryxeo10~precise1) precise; urgency=low
+
+  * new auto build from panda-01
+
+ -- ARM AutoBuild System <panda-autobuild-01@ryxeo.com>  Tue, 29 Jan 2013 09:55:38 +0100
+
+abuledu-microtexte (0.6.0~ryxeo9~precise1) precise; urgency=low
+
+  * new auto build from panda-01
+
+ -- ARM AutoBuild System <panda-autobuild-01@ryxeo.com>  Mon, 28 Jan 2013 11:42:28 +0100
+
+abuledu-microtexte (0.1.1~ryxeo1) lucid; urgency=low
+
+  * premier paquet
+  
+ -- Eric Seigne <eric.seigne@ryxeo.com>  Sat, 05 Jan 2013 16:32:28 +0100

@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>AbulEduControlAudioV1</class>
+ <widget class="QWidget" name="AbulEduControlAudioV1">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>707</width>
+    <height>50</height>
+   </rect>
+  </property>
+  <property name="sizePolicy">
+   <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+    <horstretch>0</horstretch>
+    <verstretch>0</verstretch>
+   </sizepolicy>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true"/>
+  </property>
+  <layout class="QHBoxLayout" name="horizontalLayout">
+   <property name="spacing">
+    <number>1</number>
+   </property>
+   <property name="leftMargin">
+    <number>1</number>
+   </property>
+   <property name="topMargin">
+    <number>1</number>
+   </property>
+   <property name="rightMargin">
+    <number>1</number>
+   </property>
+   <property name="bottomMargin">
+    <number>1</number>
+   </property>
+   <item>
+    <spacer name="horizontalSpacer">
+     <property name="orientation">
+      <enum>Qt::Horizontal</enum>
+     </property>
+     <property name="sizeHint" stdset="0">
+      <size>
+       <width>40</width>
+       <height>20</height>
+      </size>
+     </property>
+    </spacer>
+   </item>
+   <item>
+    <widget class="AbulEduFlatBoutonV1" name="btnAbulEduControlAudioMagnifyingGlass">
+     <property name="minimumSize">
+      <size>
+       <width>48</width>
+       <height>48</height>
+      </size>
+     </property>
+     <property name="maximumSize">
+      <size>
+       <width>48</width>
+       <height>48</height>
+      </size>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <property name="IconeNormale" stdset="0">
+      <string notr="true">:/controlaudio/magnif</string>
+     </property>
+     <property name="IconeSurvol" stdset="0">
+      <string notr="true">:/controlaudio/magnif_hover</string>
+     </property>
+     <property name="IconeDisabled" stdset="0">
+      <string notr="true">:/controlaudio/magnif_gris</string>
+     </property>
+     <property name="IconePressed" stdset="0">
+      <string notr="true">:/controlaudio/magnif_hover</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="AbulEduFlatBoutonV1" name="btnAbulEduControlAudioPrevious">
+     <property name="minimumSize">
+      <size>
+       <width>48</width>
+       <height>48</height>
+      </size>
+     </property>
+     <property name="maximumSize">
+      <size>
+       <width>48</width>
+       <height>48</height>
+      </size>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <property name="IconeNormale" stdset="0">
+      <string notr="true">:/controlaudio/previous</string>
+     </property>
+     <property name="IconeSurvol" stdset="0">
+      <string notr="true">:/controlaudio/previous_hover</string>
+     </property>
+     <property name="IconePressed" stdset="0">
+      <string notr="true">:/controlaudio/previous_hover</string>
+     </property>
+     <property name="IconeDisabled" stdset="0">
+      <string notr="true">:/controlaudio/previous_gris</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="AbulEduFlatBoutonV1" name="btnAbulEduControlAudioPause">
+     <property name="minimumSize">
+      <size>
+       <width>48</width>
+       <height>48</height>
+      </size>
+     </property>
+     <property name="maximumSize">
+      <size>
+       <width>48</width>
+       <height>48</height>
+      </size>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <property name="IconeNormale" stdset="0">
+      <string notr="true">:/controlaudio/pause</string>
+     </property>
+     <property name="IconeSurvol" stdset="0">
+      <string notr="true">:/controlaudio/pause_hover</string>
+     </property>
+     <property name="IconePressed" stdset="0">
+      <string notr="true">:/controlaudio/pause_hover</string>
+     </property>
+     <property name="IconeDisabled" stdset="0">
+      <string notr="true">:/controlaudio/pause_gris</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="AbulEduFlatBoutonV1" name="btnAbulEduControlAudioPlay">
+     <property name="minimumSize">
+      <size>
+       <width>48</width>
+       <height>48</height>
+      </size>
+     </property>
+     <property name="maximumSize">
+      <size>
+       <width>48</width>
+       <height>48</height>
+      </size>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <property name="IconeNormale" stdset="0">
+      <string notr="true">:/controlaudio/play</string>
+     </property>
+     <property name="IconeSurvol" stdset="0">
+      <string notr="true">:/controlaudio/play_hover</string>
+     </property>
+     <property name="IconePressed" stdset="0">
+      <string notr="true">:/controlaudio/play_hover</string>
+     </property>
+     <property name="IconeDisabled" stdset="0">
+      <string notr="true">:/controlaudio/play_gris</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="AbulEduFlatBoutonV1" name="btnAbulEduControlAudioStop">
+     <property name="minimumSize">
+      <size>
+       <width>48</width>
+       <height>48</height>
+      </size>
+     </property>
+     <property name="maximumSize">
+      <size>
+       <width>48</width>
+       <height>48</height>
+      </size>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <property name="IconeNormale" stdset="0">
+      <string notr="true">:/controlaudio/stop</string>
+     </property>
+     <property name="IconeSurvol" stdset="0">
+      <string notr="true">:/controlaudio/stop_hover</string>
+     </property>
+     <property name="IconePressed" stdset="0">
+      <string notr="true">:/controlaudio/stop_hover</string>
+     </property>
+     <property name="IconeDisabled" stdset="0">
+      <string notr="true">:/controlaudio/stop_gris</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="AbulEduFlatBoutonV1" name="btnAbulEduControlAudioNext">
+     <property name="minimumSize">
+      <size>
+       <width>48</width>
+       <height>48</height>
+      </size>
+     </property>
+     <property name="maximumSize">
+      <size>
+       <width>48</width>
+       <height>48</height>
+      </size>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <property name="IconeNormale" stdset="0">
+      <string notr="true">:/controlaudio/next</string>
+     </property>
+     <property name="IconeSurvol" stdset="0">
+      <string notr="true">:/controlaudio/next_hover</string>
+     </property>
+     <property name="IconePressed" stdset="0">
+      <string notr="true">:/controlaudio/next_hover</string>
+     </property>
+     <property name="IconeDisabled" stdset="0">
+      <string notr="true">:/controlaudio/next_gris</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="AbulEduFlatBoutonV1" name="btnAbulEduControlAudioRecord">
+     <property name="minimumSize">
+      <size>
+       <width>48</width>
+       <height>48</height>
+      </size>
+     </property>
+     <property name="maximumSize">
+      <size>
+       <width>48</width>
+       <height>48</height>
+      </size>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <property name="IconeNormale" stdset="0">
+      <string notr="true">:/controlaudio/rec</string>
+     </property>
+     <property name="IconeSurvol" stdset="0">
+      <string notr="true">:/controlaudio/rec_hover</string>
+     </property>
+     <property name="IconePressed" stdset="0">
+      <string notr="true">:/controlaudio/rec_hover</string>
+     </property>
+     <property name="IconeDisabled" stdset="0">
+      <string notr="true">:/controlaudio/rec_gris</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="AbulEduAudioLevelWidgetV1" name="wgAbulEduControlAudioLevelMeter" native="true">
+     <property name="minimumSize">
+      <size>
+       <width>40</width>
+       <height>20</height>
+      </size>
+     </property>
+     <property name="sizeIncrement">
+      <size>
+       <width>40</width>
+       <height>20</height>
+      </size>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="AbulEduFlatBoutonV1" name="btnAbulEduControlAudioToggleOutput">
+     <property name="minimumSize">
+      <size>
+       <width>48</width>
+       <height>48</height>
+      </size>
+     </property>
+     <property name="maximumSize">
+      <size>
+       <width>48</width>
+       <height>48</height>
+      </size>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <property name="checkable">
+      <bool>true</bool>
+     </property>
+     <property name="checked">
+      <bool>false</bool>
+     </property>
+     <property name="IconeNormale" stdset="0">
+      <string notr="true">:/controlaudio/hp</string>
+     </property>
+     <property name="IconeSurvol" stdset="0">
+      <string notr="true">:/controlaudio/hp_hover</string>
+     </property>
+     <property name="IconePressed" stdset="0">
+      <string notr="true">:/controlaudio/hp_hover</string>
+     </property>
+     <property name="IconeDisabled" stdset="0">
+      <string notr="true">:/controlaudio/hp_gris</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QFrame" name="frmSpeed">
+     <property name="styleSheet">
+      <string notr="true"/>
+     </property>
+     <property name="frameShape">
+      <enum>QFrame::NoFrame</enum>
+     </property>
+     <property name="frameShadow">
+      <enum>QFrame::Raised</enum>
+     </property>
+     <layout class="QHBoxLayout" name="frmSpeedLayout">
+      <property name="spacing">
+       <number>6</number>
+      </property>
+      <property name="sizeConstraint">
+       <enum>QLayout::SetMinAndMaxSize</enum>
+      </property>
+      <property name="leftMargin">
+       <number>0</number>
+      </property>
+      <property name="topMargin">
+       <number>0</number>
+      </property>
+      <property name="rightMargin">
+       <number>0</number>
+      </property>
+      <property name="bottomMargin">
+       <number>0</number>
+      </property>
+      <item>
+       <widget class="QLabel" name="lblAbulEduControlAudioVitesseLabel">
+        <property name="text">
+         <string>Vitesse</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="AbulEduFlatBoutonV1" name="btnAbulEduControlAudioIncreaseSpeed">
+        <property name="minimumSize">
+         <size>
+          <width>48</width>
+          <height>48</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>48</width>
+          <height>48</height>
+         </size>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+        <property name="IconeNormale" stdset="0">
+         <string notr="true">:/controlaudio/plus</string>
+        </property>
+        <property name="IconeSurvol" stdset="0">
+         <string notr="true">:/controlaudio/plus_hover</string>
+        </property>
+        <property name="IconePressed" stdset="0">
+         <string notr="true">:/controlaudio/plus_hover</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="lblAbulEduControlAudioDisplay">
+        <property name="minimumSize">
+         <size>
+          <width>40</width>
+          <height>40</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>48</width>
+          <height>48</height>
+         </size>
+        </property>
+        <property name="autoFillBackground">
+         <bool>true</bool>
+        </property>
+        <property name="text">
+         <string>100</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignCenter</set>
+        </property>
+        <property name="textInteractionFlags">
+         <set>Qt::NoTextInteraction</set>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="AbulEduFlatBoutonV1" name="btnAbulEduControlAudioDecreaseSpeed">
+        <property name="minimumSize">
+         <size>
+          <width>48</width>
+          <height>48</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>48</width>
+          <height>48</height>
+         </size>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+        <property name="IconeNormale" stdset="0">
+         <string notr="true">:/controlaudio/minus</string>
+        </property>
+        <property name="IconeSurvol" stdset="0">
+         <string notr="true">:/controlaudio/minus_hover</string>
+        </property>
+        <property name="IconePressed" stdset="0">
+         <string notr="true">:/controlaudio/minus_hover</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </item>
+   <item>
+    <widget class="AbulEduFlatBoutonV1" name="btnAbulEduControlAudioHide">
+     <property name="minimumSize">
+      <size>
+       <width>48</width>
+       <height>48</height>
+      </size>
+     </property>
+     <property name="maximumSize">
+      <size>
+       <width>48</width>
+       <height>48</height>
+      </size>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <property name="checkable">
+      <bool>false</bool>
+     </property>
+     <property name="IconeNormale" stdset="0">
+      <string notr="true">:/controlaudio/hide</string>
+     </property>
+     <property name="IconeSurvol" stdset="0">
+      <string notr="true">:/controlaudio/hide_hover</string>
+     </property>
+     <property name="IconePressed" stdset="0">
+      <string notr="true">:/controlaudio/hide_hover</string>
+     </property>
+     <property name="IconeDisabled" stdset="0">
+      <string notr="true">:/controlaudio/hide_gris</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <spacer name="horizontalSpacer_2">
+     <property name="orientation">
+      <enum>Qt::Horizontal</enum>
+     </property>
+     <property name="sizeHint" stdset="0">
+      <size>
+       <width>40</width>
+       <height>20</height>
+      </size>
+     </property>
+    </spacer>
+   </item>
+  </layout>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>AbulEduFlatBoutonV1</class>
+   <extends>QPushButton</extends>
+   <header>abuleduflatboutonv1.h</header>
+  </customwidget>
+  <customwidget>
+   <class>AbulEduAudioLevelWidgetV1</class>
+   <extends>QWidget</extends>
+   <header>abuleduaudiolevelwidgetv1.h</header>
+   <container>1</container>
+  </customwidget>
+ </customwidgets>
+ <resources/>
+ <connections/>
+</ui>

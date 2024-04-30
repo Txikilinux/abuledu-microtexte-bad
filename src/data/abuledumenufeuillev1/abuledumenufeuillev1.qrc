@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/abuledumenufeuillev1">
+        <file>abuledumenufeuillev1.conf</file>
+        <file alias="itHover">picto/it-hover.png</file>
+        <file alias="nlHover">picto/nl-hover.png</file>
+        <file alias="nl">picto/nl.png</file>
+        <file alias="esHover">picto/es-hover.png</file>
+        <file alias="it">picto/it.png</file>
+        <file alias="frHover">picto/fr-hover.png</file>
+        <file alias="fr">picto/fr.png</file>
+        <file alias="es">picto/es.png</file>
+        <file alias="enHover">picto/en-hover.png</file>
+        <file alias="de">picto/de.png</file>
+        <file alias="deHover">picto/de-hover.png</file>
+        <file alias="en">picto/en.png</file>
+        <file alias="ocHover">picto/oc-hover.png</file>
+        <file alias="oc">picto/oc.png</file>
+        <file alias="leaf">picto/feuille.png</file>
+        <file alias="helpHover">picto/aideFeuille-hover.png</file>
+        <file alias="showMinimized">picto/fenetreReduit.png</file>
+        <file alias="showNormal">picto/fenetreMoyen.png</file>
+        <file alias="showMaximized">picto/fenetreGrand.png</file>
+        <file alias="quitHover">picto/quit-hover.png</file>
+        <file alias="quit">picto/quit.png</file>
+        <file alias="new">picto/nouveau.png</file>
+        <file alias="help">picto/aideFeuille.png</file>
+        <file alias="publish">picto/publish.png</file>
+        <file alias="settings">picto/parametres.png</file>
+        <file alias="open">picto/ouvrir.png</file>
+        <file alias="exportHover">picto/exporter-hover.png</file>
+        <file alias="export">picto/exporter.png</file>
+        <file alias="importHover">picto/import-hover.png</file>
+        <file alias="import">picto/import.png</file>
+        <file alias="printHover">picto/imprimer-hover.png</file>
+        <file alias="print">picto/imprimer.png</file>
+        <file alias="newHover">picto/nouveau-hover.png</file>
+        <file alias="openHover">picto/ouvrir-hover.png</file>
+        <file alias="settingsHover">picto/parametres-hover.png</file>
+        <file alias="publishHover">picto/publish-hover.png</file>
+        <file alias="saveHover">picto/save-hover.png</file>
+        <file alias="save">picto/save.png</file>
+        <file alias="abeMenuFeuillePrincipaleBackground">picto/fond-top.jpg</file>
+    </qresource>
+</RCC>

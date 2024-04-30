@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE NOMENCLATURE SYSTEM "Dtd-Nomenclature.dtd">
+<NOMENCLATURE>
+    <TERME>
+        <INTITULE>compétence 1 - la maîtrise de la langue française</INTITULE>
+        <ID>scolomfr-voc-016-num-001</ID>
+        <DF>Compétence</DF>
+        <ORIGINE>scolomfr-voc-016</ORIGINE>
+        <TS>
+            <TERME>
+                <INTITULE>écrire</INTITULE>
+                <ID>scolomfr-voc-016-num-0012</ID>
+                <DF>Compétence</DF>
+                <ORIGINE>scolomfr-voc-016</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>lire</INTITULE>
+                <ID>scolomfr-voc-016-num-0011</ID>
+                <DF>Compétence</DF>
+                <ORIGINE>scolomfr-voc-016</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>s'exprimer à l'oral</INTITULE>
+                <ID>scolomfr-voc-016-num-0013</ID>
+                <DF>Compétence</DF>
+                <ORIGINE>scolomfr-voc-016</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>utiliser des outils</INTITULE>
+                <ID>scolomfr-voc-016-num-0014</ID>
+                <DF>Compétence</DF>
+                <ORIGINE>scolomfr-voc-016</ORIGINE>
+            </TERME>
+        </TS>
+    </TERME>
+    <TERME>
+        <INTITULE>compétence 2 - la pratique d'une langue vivante étrangère (niveau a2)</INTITULE>
+        <ID>scolomfr-voc-016-num-002</ID>
+        <DF>Compétence</DF>
+        <ORIGINE>scolomfr-voc-016</ORIGINE>
+        <TS>
+            <TERME>
+                <INTITULE>écouter et comprendre</INTITULE>
+                <ID>scolomfr-voc-016-num-0022</ID>
+                <DF>Compétence</DF>
+                <ORIGINE>scolomfr-voc-016</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>écrire</INTITULE>
+                <ID>scolomfr-voc-016-num-0025</ID>
+                <DF>Compétence</DF>
+                <ORIGINE>scolomfr-voc-016</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>lire</INTITULE>
+                <ID>scolomfr-voc-016-num-0024</ID>
+                <DF>Compétence</DF>
+                <ORIGINE>scolomfr-voc-016</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>parler en continu</INTITULE>
+                <ID>scolomfr-voc-016-num-0023</ID>
+                <DF>Compétence</DF>
+                <ORIGINE>scolomfr-voc-016</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>réagir et dialoguer</INTITULE>
+                <ID>scolomfr-voc-016-num-0021</ID>
+                <DF>Compétence</DF>
+                <ORIGINE>scolomfr-voc-016</ORIGINE>
+            </TERME>
+        </TS>
+    </TERME>
+    <TERME>
+        <INTITULE>compétence 3 - les principaux éléments de mathématiques et la culture scientifique et technologique</INTITULE>
+        <ID>scolomfr-voc-016-num-003</ID>
+        <DF>Compétence</DF>
+        <ORIGINE>scolomfr-voc-016</ORIGINE>
+        <TS>
+            <TERME>
+                <INTITULE>mobiliser ses connaissances pour comprendre des questions liées à l'environnement et au développement durable</INTITULE>
+                <ID>scolomfr-voc-016-num-0034</ID>
+                <DF>Compétence</DF>
+                <ORIGINE>scolomfr-voc-016</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>pratiquer une démarche scientifique et technologique, résoudre des problèmes</INTITULE>
+                <ID>scolomfr-voc-016-num-0031</ID>
+                <DF>Compétence</DF>
+                <ORIGINE>scolomfr-voc-016</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>savoir utiliser des connaissances dans divers domaines scientifiques</INTITULE>
+                <ID>scolomfr-voc-016-num-0033</ID>
+                <DF>Compétence</DF>
+                <ORIGINE>scolomfr-voc-016</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>savoir utiliser des connaissances et des compétences mathématiques</INTITULE>
+                <ID>scolomfr-voc-016-num-0032</ID>
+                <DF>Compétence</DF>
+                <ORIGINE>scolomfr-voc-016</ORIGINE>
+            </TERME>
+        </TS>
+    </TERME>
+    <TERME>
+        <INTITULE>compétence 4 - la maîtrise des techniques usuelles de l'information et de la communication (b2i)</INTITULE>
+        <ID>scolomfr-voc-016-num-004</ID>
+        <DF>Compétence</DF>
+        <ORIGINE>scolomfr-voc-016</ORIGINE>
+        <TS>
+            <TERME>
+                <INTITULE>domaine 1 - s'approprier un environnement informatique de travail</INTITULE>
+                <ID>scolomfr-voc-016-num-0041</ID>
+                <DF>Compétence</DF>
+                <ORIGINE>scolomfr-voc-016</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>domaine 2 - adopter une attitude responsable</INTITULE>
+                <ID>scolomfr-voc-016-num-0042</ID>
+                <DF>Compétence</DF>
+                <ORIGINE>scolomfr-voc-016</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>domaine 3 - créer, produire, traiter, exploiter des données</INTITULE>
+                <ID>scolomfr-voc-016-num-0043</ID>
+                <DF>Compétence</DF>
+                <ORIGINE>scolomfr-voc-016</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>domaine 4 - s'informer, se documenter</INTITULE>
+                <ID>scolomfr-voc-016-num-0044</ID>
+                <DF>Compétence</DF>
+                <ORIGINE>scolomfr-voc-016</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>domaine 5 - communiquer, échanger</INTITULE>
+                <ID>scolomfr-voc-016-num-0045</ID>
+                <DF>Compétence</DF>
+                <ORIGINE>scolomfr-voc-016</ORIGINE>
+            </TERME>
+        </TS>
+    </TERME>
+    <TERME>
+        <INTITULE>compétence 5 - la culture humaniste</INTITULE>
+        <ID>scolomfr-voc-016-num-005</ID>
+        <DF>Compétence</DF>
+        <ORIGINE>scolomfr-voc-016</ORIGINE>
+        <TS>
+            <TERME>
+                <INTITULE>avoir des outils pour comprendre l'unité et la complexité du monde</INTITULE>
+                <ID>scolomfr-voc-016-num-0056</ID>
+                <DF>Compétence</DF>
+                <ORIGINE>scolomfr-voc-016</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>avoir des repères en histoire des arts et pratiquer les arts</INTITULE>
+                <ID>scolomfr-voc-016-num-0054</ID>
+                <DF>Compétence</DF>
+                <ORIGINE>scolomfr-voc-016</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>avoir des repères géographiques</INTITULE>
+                <ID>scolomfr-voc-016-num-0051</ID>
+                <DF>Compétence</DF>
+                <ORIGINE>scolomfr-voc-016</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>avoir des repères historiques</INTITULE>
+                <ID>scolomfr-voc-016-num-0052</ID>
+                <DF>Compétence</DF>
+                <ORIGINE>scolomfr-voc-016</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>avoir des repères littéraires</INTITULE>
+                <ID>scolomfr-voc-016-num-0053</ID>
+                <DF>Compétence</DF>
+                <ORIGINE>scolomfr-voc-016</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>lire et utiliser différents langages</INTITULE>
+                <ID>scolomfr-voc-016-num-0055</ID>
+                <DF>Compétence</DF>
+                <ORIGINE>scolomfr-voc-016</ORIGINE>
+            </TERME>
+        </TS>
+    </TERME>
+    <TERME>
+        <INTITULE>compétence 6 - les compétences sociales et civiques</INTITULE>
+        <ID>scolomfr-voc-016-num-006</ID>
+        <DF>Compétence</DF>
+        <ORIGINE>scolomfr-voc-016</ORIGINE>
+        <TS>
+            <TERME>
+                <INTITULE>avoir un comportement responsable</INTITULE>
+                <ID>scolomfr-voc-016-num-0062</ID>
+                <DF>Compétence</DF>
+                <ORIGINE>scolomfr-voc-016</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>connaître les principes et fondements de la vie civique et sociale</INTITULE>
+                <ID>scolomfr-voc-016-num-0061</ID>
+                <DF>Compétence</DF>
+                <ORIGINE>scolomfr-voc-016</ORIGINE>
+            </TERME>
+        </TS>
+    </TERME>
+    <TERME>
+        <INTITULE>compétence 7 - l'autonomie et l'initiative</INTITULE>
+        <ID>scolomfr-voc-016-num-007</ID>
+        <DF>Compétence</DF>
+        <ORIGINE>scolomfr-voc-016</ORIGINE>
+        <TS>
+            <TERME>
+                <INTITULE>découvrir les métiers et les formations</INTITULE>
+                <ID>scolomfr-voc-016-num-0071</ID>
+                <DF>Compétence</DF>
+                <ORIGINE>scolomfr-voc-016</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>être capable de mobiliser ses ressources intellectuelles et physiques dans diverses situations</INTITULE>
+                <ID>scolomfr-voc-016-num-00712</ID>
+                <DF>Compétence</DF>
+                <ORIGINE>scolomfr-voc-016</ORIGINE>
+            </TERME>
+        </TS>
+        <TS>
+            <TERME>
+                <INTITULE>faire preuve d'initiative</INTITULE>
+                <ID>scolomfr-voc-016-num-00713</ID>
+                <DF>Compétence</DF>
+                <ORIGINE>scolomfr-voc-016</ORIGINE>
+            </TERME>
+        </TS>
+    </TERME>
+</NOMENCLATURE>

@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/abuledufilev1">
+        <file alias="fond-photo">icones/abuledufilev1/fond-photo.png</file>
+        <file alias="fond-video">icones/abuledufilev1/fond-video.png</file>
+        <file alias="fond-text">icones/abuledufilev1/fond-text.png</file>
+        <file alias="fond-police">icones/abuledufilev1/fond-police.png</file>
+        <file alias="fond-music">icones/abuledufilev1/fond-music.png</file>
+        <file alias="fond-vide">icones/abuledufilev1/fond-vide.png</file>
+    </qresource>
+    <qresource prefix="/abuledufilev1/scolomfr">
+        <file alias="scolom-voc-015.xml">data/scolomfr-voc-015_XML.xml</file>
+        <file alias="scolom-voc-016.xml">data/scolomfr-voc-016_XML.xml</file>
+        <file alias="scolom-voc-021.xml">data/scolomfr-voc-021_XML.xml</file>
+        <file alias="scolom-voc-022.xml">data/scolomfr-voc-022_XML.xml</file>
+        <file alias="scolom-voc-028.xml">data/scolomfr-voc-028_XML.xml</file>
+        <file alias="scolom-voc-040.xml">data/scolomfr-voc-040_XML.xml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE NOMENCLATURE SYSTEM "Dtd-Nomenclature.dtd">
+<NOMENCLATURE>
+    <TERME>
+        <INTITULE>3e insertion</INTITULE>
+        <ID>scolomfr-voc-040-num-001</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>4e aide et soutien</INTITULE>
+        <ID>scolomfr-voc-040-num-002</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>accompagnement à l'orientation</INTITULE>
+        <ID>scolomfr-voc-040-num-003</ID>
+        <NA>Concept à part entière, presque une discipline, regroupant à la fois du soutien, de l'approfondissement et de l'aide à l'orientation.</NA>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>accompagnement éducatif</INTITULE>
+        <ID>scolomfr-voc-040-num-004</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+        <TERME_TE>
+            <INTITULE>accompagnement hors temps scolaire</INTITULE>
+            <ID>scolomfr-voc-040-num-005</ID>
+            <ORIGINE>scolomfr-voc-040</ORIGINE>
+        </TERME_TE>
+    </TERME>
+    <TERME>
+        <INTITULE>accompagnement personnalisé</INTITULE>
+        <ID>scolomfr-voc-040-num-006</ID>
+        <NA>Organisé de l'école au lycée.</NA>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+        <TERME_TE>
+            <INTITULE>accompagnement pendant le temps scolaire</INTITULE>
+            <ID>scolomfr-voc-040-num-007</ID>
+            <ORIGINE>scolomfr-voc-040</ORIGINE>
+        </TERME_TE>
+    </TERME>
+    <TERME>
+        <INTITULE>accueil des primo-arrivants</INTITULE>
+        <ID>scolomfr-voc-040-num-008</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>actions internationales</INTITULE>
+        <ID>scolomfr-voc-040-num-009</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>adaptation scolaire et scolarisation des élèves à besoins spécifiques</INTITULE>
+        <ID>scolomfr-voc-040-num-010</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>aide individualisée</INTITULE>
+        <ID>scolomfr-voc-040-num-011</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>CLIN classe d'initiation</INTITULE>
+        <ID>scolomfr-voc-040-num-012</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>CLIS classe d'intégration scolaire</INTITULE>
+        <ID>scolomfr-voc-040-num-013</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>culture scientifique et technologique</INTITULE>
+        <ID>scolomfr-voc-040-num-014</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+        <TERME_TE>
+            <INTITULE>culture scientifique et technique</INTITULE>
+            <ID>scolomfr-voc-040-num-015</ID>
+            <ORIGINE>scolomfr-voc-040</ORIGINE>
+        </TERME_TE>
+    </TERME>
+    <TERME>
+        <INTITULE>dispositif de scolarisation des élèves handicapés</INTITULE>
+        <ID>scolomfr-voc-040-num-016</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>dispositif ECLAIR</INTITULE>
+        <ID>scolomfr-voc-040-num-017</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>dispositif école ouverte</INTITULE>
+        <ID>scolomfr-voc-040-num-018</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>dispositifs de soutien et de remédiation scolaire</INTITULE>
+        <ID>scolomfr-voc-040-num-019</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>dispositifs relais</INTITULE>
+        <ID>scolomfr-voc-040-num-020</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>échange pédagogique de classes</INTITULE>
+        <ID>scolomfr-voc-040-num-021</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>éducation à l'image, au cinéma et à l'audiovisuel</INTITULE>
+        <ID>scolomfr-voc-040-num-022</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>éducation à l'orientation et au choix</INTITULE>
+        <ID>scolomfr-voc-040-num-027</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>éducation à la citoyenneté - valeurs républicaines</INTITULE>
+        <ID>scolomfr-voc-040-num-023</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>éducation à la santé</INTITULE>
+        <ID>scolomfr-voc-040-num-024</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>éducation à la sécurité</INTITULE>
+        <ID>scolomfr-voc-040-num-025</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>éducation à la sécurité routière</INTITULE>
+        <ID>scolomfr-voc-040-num-026</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>éducation artistique et culturelle</INTITULE>
+        <ID>scolomfr-voc-040-num-028</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>éducation au développement et à la solidarité</INTITULE>
+        <ID>scolomfr-voc-040-num-029</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>éducation aux médias</INTITULE>
+        <ID>scolomfr-voc-040-num-030</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>enseignement de la défense et de la sécurité nationale</INTITULE>
+        <ID>scolomfr-voc-040-num-031</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>enseignement renforcé des langues</INTITULE>
+        <ID>scolomfr-voc-040-num-032</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>EREA école régionale d'enseignement adapté</INTITULE>
+        <ID>scolomfr-voc-040-num-033</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>formation à l'information et à la communication</INTITULE>
+        <ID>scolomfr-voc-040-num-034</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>gestion financière et matérielle des établissements</INTITULE>
+        <ID>scolomfr-voc-040-num-035</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>IDD (itinéraire de découverte)</INTITULE>
+        <ID>scolomfr-voc-040-num-036</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>internat d'excellence</INTITULE>
+        <ID>scolomfr-voc-040-num-037</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>liaison collège - lycée</INTITULE>
+        <ID>scolomfr-voc-040-num-038</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>liaison inter-cycles et inter-degrés</INTITULE>
+        <ID>scolomfr-voc-040-num-039</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>liaison lycée - enseignement supérieur</INTITULE>
+        <ID>scolomfr-voc-040-num-040</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>liaison primaire - collège</INTITULE>
+        <ID>scolomfr-voc-040-num-041</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>LSF (langue des signes française)</INTITULE>
+        <ID>scolomfr-voc-040-num-042</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>mémoire et histoire</INTITULE>
+        <ID>scolomfr-voc-040-num-043</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>organisation pédagogique des établissements d'enseignement</INTITULE>
+        <ID>scolomfr-voc-040-num-044</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>PAC (projet artistique et culturel)</INTITULE>
+        <ID>scolomfr-voc-040-num-045</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>partenariat électronique inter-écoles</INTITULE>
+        <ID>scolomfr-voc-040-num-046</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>PDMF (parcours découverte des métiers et des formations)</INTITULE>
+        <ID>scolomfr-voc-040-num-047</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>pilotage et gestion du système éducatif</INTITULE>
+        <ID>scolomfr-voc-040-num-048</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>PPCP (projet pluridisciplinaire à caractère professionnel)</INTITULE>
+        <ID>scolomfr-voc-040-num-049</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>pratique sportive</INTITULE>
+        <ID>scolomfr-voc-040-num-050</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>prévention du décrochage scolaire</INTITULE>
+        <ID>scolomfr-voc-040-num-051</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>prévention et lutte contre la violence</INTITULE>
+        <ID>scolomfr-voc-040-num-052</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>projet inter-établissement</INTITULE>
+        <ID>scolomfr-voc-040-num-053</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>RAR réseau ambition réussite</INTITULE>
+        <ID>scolomfr-voc-040-num-054</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>relation école-entreprise</INTITULE>
+        <ID>scolomfr-voc-040-num-055</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>relations extérieures et partenariats</INTITULE>
+        <ID>scolomfr-voc-040-num-056</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>section européenne ou internationale</INTITULE>
+        <ID>scolomfr-voc-040-num-057</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>SEGPA section d'enseignement général et professionnel adapté</INTITULE>
+        <ID>scolomfr-voc-040-num-058</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>séjour et classe de découvertes</INTITULE>
+        <ID>scolomfr-voc-040-num-059</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>système d'évaluation</INTITULE>
+        <ID>scolomfr-voc-040-num-060</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>TIPE (travaux d'initiative personnelle encadrés)</INTITULE>
+        <ID>scolomfr-voc-040-num-061</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>TPE (travaux personnels encadrés)</INTITULE>
+        <ID>scolomfr-voc-040-num-062</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>ULIS unité localisée pour l'inclusion scolaire</INTITULE>
+        <ID>scolomfr-voc-040-num-063</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>UPI unité pédagogique d'intégration</INTITULE>
+        <ID>scolomfr-voc-040-num-064</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+    <TERME>
+        <INTITULE>vie scolaire</INTITULE>
+        <ID>scolomfr-voc-040-num-065</ID>
+        <ORIGINE>scolomfr-voc-040</ORIGINE>
+    </TERME>
+</NOMENCLATURE>

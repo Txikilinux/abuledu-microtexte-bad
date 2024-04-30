@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/abuledumessageboxv1/icon">
+        <file alias="oups">picto/etonnee.png</file>
+        <file alias="wink">picto/wink.png</file>
+    </qresource>
+    <qresource prefix="/abuledumessageboxv1/button">
+        <file alias="ok">picto/valider.png</file>
+        <file alias="okPressed">picto/valider-pressed.png</file>
+        <file alias="okHover">picto/valider-hover.png</file>
+        <file alias="close">picto/fermer.png</file>
+        <file alias="closePressed">picto/fermer-pressed.png</file>
+        <file alias="closeHover">picto/fermer-hover.png</file>
+        <file alias="cancel">picto/annuler.png</file>
+        <file alias="cancelPressed">picto/annuler-pressed.png</file>
+        <file alias="cancelHover">picto/annuler-hover.png</file>
+    </qresource>
+    <qresource prefix="/abuledumessageboxv1/settings">
+        <file alias="conf">abuledumessageboxv1.conf</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,15 @@
+ui_*
+moc_*
+about2.pro.user
+abuleduapropos.tar.gz
+main.cpp
+main.o
+about2
+about2.pro
+moc_abuleduaproposv0.cpp
+moc_abuleduaproposv0.o
+moc_mainwindow.cpp
+moc_mainwindow.o
+ui_abuleduaproposv0.h
+ui_mainwindow.h
+makefile

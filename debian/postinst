@@ -1,0 +1,15 @@
+#!/bin/sh
+
+APPNAME=abuledu-microtexte
+
+ICON=/usr/share/applications/${APPNAME}.desktop
+ALACARTEDIR=/usr/share/abuledu-alacarte/data/profile1.applications/
+
+xdg-desktop-menu install  --novendor --mode system ${ICON}
+
+#alacarte
+if [ -d "${ALACARTEDIR}" ]; then
+    cp ${ICON} ${ALACARTEDIR}
+fi
+
+#DEBHELPER#

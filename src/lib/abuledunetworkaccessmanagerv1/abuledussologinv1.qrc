@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/abuledussologinv1">
+        <file alias="user">icones/user.png</file>
+        <file alias="cadre-identification">icones/cadre-identification.png</file>
+        <file alias="clef-jaune">icones/clef-jaune.png</file>
+        <file alias="flecheVerte-connexion">icones/flecheVerte-connexion.png</file>
+        <file alias="logout">icones/logout.svg</file>
+        <file alias="puce">icones/puce.png</file>
+        <file alias="erreur">icones/erreur.png</file>
+        <file alias="ok">icones/ok.png</file>
+        <file alias="attention">icones/exclamation.png</file>
+        <file alias="creer">icones/creer-compte.png</file>
+        <file alias="deconnecter">icones/deconnecter.png</file>
+        <file alias="changer">icones/changer-utilisateur.png</file>
+        <file alias="fermer">icones/fermer.png</file>
+        <file alias="tetiere-simple-anonyme">icones/tetiere-anonyme.png</file>
+        <file alias="bordure-grand-perso">icones/bordure_grand_perso.png</file>
+        <file alias="bordure-grand-anonyme">icones/bordure_grand_anonyme.png</file>
+        <file alias="serveur-rouge">icones/serveur-rouge.png</file>
+        <file alias="serveur-vert">icones/serveur-vert.png</file>
+        <file alias="domaine">icones/domaine.png</file>
+    </qresource>
+</RCC>
